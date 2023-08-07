@@ -1,15 +1,15 @@
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CBNT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Logo_for_CBNT-DT.jpg" group-title="Undefined",CBNT
+#EXTINF:-1 tvg-id="CBNT" tvg-name="CBNT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Logo_for_CBNT-DT.jpg" group-title="Undefined",CBNT
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CIHFDT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Global_Halifax.png" group-title="Undefined",GLOBAL - HALIFAX
+#EXTINF:-1 tvg-id="CIHFDT" tvg-name="CIHFDT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Global_Halifax.png" group-title="Undefined",GLOBAL - HALIFAX
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="ASN" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV2 - ATLANTIC
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CJCH" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV - HALIFAX 
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="WBZ" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CBS Boston
+#EXTINF:-1 tvg-id="WBZ" tvg-name="WBZ" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CBS Boston
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="WMED" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",PBS Maine
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="WBTS" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",NBC Boston
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="WFXT" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",FOX 
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="WCVB" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ABC - EAST
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CJON" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",NTV (CJON)
+#EXTINF:-1 tvg-id="CJON" tvg-name="CJON" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",NTV (CJON)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CBNews" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CBC NEWS NETWORK HD
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",THE WEATHER NETWORK
@@ -82,7 +82,7 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",SHOWCASE 616
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",A&E HD1615
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV DRAMA CHANNEL 620
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="TCM" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TCM338
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TCM338
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN1 HD1401
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN RADIO 1050977
