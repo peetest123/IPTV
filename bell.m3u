@@ -81,8 +81,8 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",PEACHTREE TV294
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",SHOWCASE 616
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",A&E HD1615
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV DRAMA CHANNEL 620
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TCM338
+#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV DRAMA CHANNEL 
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Movies",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN1 HD1401
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN RADIO 1050977
