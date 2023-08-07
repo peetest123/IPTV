@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-id="CBNT" tvg-name="CBNT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Logo_for_CBNT-DT.jpg" group-title="Undefined",CBNT
-https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+https://dai.google.com/linear/hls/pa/event/NI3t7RVDSZaWrXE6fo_FzQ/stream/be41acba-2000-4088-bff1-d2574e8b640c:TUL/variant/f8dd5735a25fd8b3baa287df67f5fb72/bandwidth/3102000.m3u8
 #EXTINF:-1 tvg-id="CIHFDT" tvg-name="CIHFDT" tvg-logo="https://en.m.wikipedia.org/wiki/File:Global_Halifax.png" group-title="Undefined",GLOBAL - HALIFAX
+https://watch.globaltv.com/channel/382d5187-0149-47e1-be61-70a399af2cc9/?action=play
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="ASN" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV2 - ATLANTIC
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="CJCH" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV - HALIFAX 
 #EXTINF:-1 tvg-id="WBZ" tvg-name="WBZ" tvg-logo="https://en.m.wikipedia.org/wiki/File:WBZ-TV_CBS_News_Boston_logo.svg" group-title="Undefined",CBS Boston
