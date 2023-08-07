@@ -65,7 +65,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",OLN411
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",FOX SPORTS RACING421
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ESPN CLASSIC CANADA 412
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",NBA TV CANADA415
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="nbatv" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="sports",NBA TV CANADA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",WWE NETWORK1446
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",THE FIGHT NETWORK423
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",WILD PURSUIT NETWORK424
