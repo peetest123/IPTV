@@ -48,7 +48,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV2 HD - ATLANTIC*1258
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV2 - TORONTO*VARIES
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",CTV2 HD - TORONTO*VARIES
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN1 
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11182/s11182_ll_h15_aa.png?w=55" group-title="Sports",TSN1 
+http://smart-hdip.com:6204/said/123/10636
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN2 
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN3
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",TSN4
