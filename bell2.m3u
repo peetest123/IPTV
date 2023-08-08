@@ -1,31 +1,18 @@
 #EXTINF:-1 tvg-id="" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1
 #EXTINF:-1 tvg-id="" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIHF
-EXTINF:-1 tvg-id="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" tvg-name="" tvg-logo="" group-title="",ASN
-
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCH
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WBZ
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WMED
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WBTSSD
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WFXT
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WCVBSAT
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJON
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CBNEWS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TSC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CWEA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CWEA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
