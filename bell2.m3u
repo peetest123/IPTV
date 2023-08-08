@@ -18,8 +18,8 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="",TSC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png?w=55" group-title="",CICA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TREEC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="kids",TREEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="kids",YTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",APTNE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CP24
@@ -42,7 +42,7 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CPAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCWDT
