@@ -189,8 +189,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ABC SPARK HD1564
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ADULT SWIM  334
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ADULT SWIM HD1334
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",AMC 339
-#EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",AMC HD1339
+#EXTINF:-1 tvg-id="amc" tvg-name="amc" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Movies",AMC 339
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="amchd" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Movies",AMC HD1339
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ANIMAL PLANET525
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ANIMAL PLANET HD 1525
 #EXTINF:-1 tvg-id="ntv.de(m3u4u)" tvg-name="n-tv [Geo-blocked]" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",BBC WORLD NEWS510
