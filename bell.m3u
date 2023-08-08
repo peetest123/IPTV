@@ -7,7 +7,7 @@ https://watch.globaltv.com/channel/382d5187-0149-47e1-be61-70a399af2cc9/?action=
 #EXTINF:-1 tvg-id="CJCH" tvg-name="CJCH" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="Undefined",CTV - HALIFAX 
 #EXTINF:-1 tvg-id="WBZ" tvg-name="WBZ" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11318/s10003_ll_h15_ac.png?w=55" group-title="Undefined",CBS Boston
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="wmed" tvg-name="WMED" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",PBS Maine
+#EXTINF:-1 tvg-id="wmed" tvg-name="WMED" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="Undefined",PBS Maine
 #EXTINF:-1 tvg-id="wbts" tvg-name="WBTS" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",NBC Boston
 #EXTINF:-1 tvg-id="wfxt" tvg-name="WFXT" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",FOX 
 #EXTINF:-1 tvg-id="wcvb" tvg-name="WCVB" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",ABC - EAST
