@@ -9,11 +9,11 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowin
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBNEWS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55"group-title="",CWEA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55" group-title="",CWEA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="",TSC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png?w=55" group-title="",CICA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TREEC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTV
@@ -47,58 +47,14 @@ group-title="",CHNU
 group-title="",36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",KOMO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",General Hospital
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",5:30  - 6:30  NEW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",The Kelly Clarkson Show
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",6:30  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Seattle Refined
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",KOMO 4 News at 3:30pm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -   NEW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",￼
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",37
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",KIRO7SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",The Talk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",5:30  - 6:30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",The Bold and the Beautiful
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",6:30  -   NEW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Paid Programming
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
