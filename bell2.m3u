@@ -124,86 +124,18 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Seinfeld
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Seinfeld
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",The Simpsons
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",The Simpsons
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Ridiculousness
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",Ridiculousness
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="", 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",221
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BETC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MTV2CN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TNF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CBNEWS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CNN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TNF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="", 
+#", 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",235
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",NEWSNET
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CTV News Weekend
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-  -   NEW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CTV News Weekend
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CTV News Weekend
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
+#"" tvg-name="" tvg-logo=""
   -   NEW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",
@@ -216,19 +148,7 @@ group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",CTV News Weekend
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -   NEW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CTV News Weekend
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",  -
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="", 
+", 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
 group-title="",236
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
