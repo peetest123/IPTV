@@ -1,887 +1,591 @@
-#EXTINF:-1 tvg-id="" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1
-#EXTINF:-1 tvg-id="" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT
-https://dai.google.com/linear/hls/pa/event/NI3t7RVDSZaWrXE6fo_FzQ/stream/83decf19-c41f-48f0-88ba-5a16675d7435:DLS/variant/f8dd5735a25fd8b3baa287df67f5fb72/bandwidth/3102000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH
-https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png?w=55" group-title="",WBZ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",WMED
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON
-https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55"group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55" group-title="",CWEA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="",TSC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png?w=55" group-title="",CICA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="kids",TREEC
-#EXTINF:-1 tvg-id="I25.12045.zap2it.com" tvg-name="YTV" tvg-logo="" group-title="kids",YTV
-#EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="Tree House" tvg-logo="" group-title="",CMT
-#EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="" tvg-logo="" group-title="",APTNE
-#EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="" tvg-logo="" group-title="",CP24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OMNI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="",CHAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIIT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHNU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KOMO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7SD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCWDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCBHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CICIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKNYHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHBXHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITOHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJOHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFCFDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKYDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCKDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFCNDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFL Live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MLBNC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNP
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLNETC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLFBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OLN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAVTVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FSR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPNCLC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBATVC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WWE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHTSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WILDTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCCAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPMN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMPLSC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLC1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL6 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL7 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIVTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFCNDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCKDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKYDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CICIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKNYHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHBXHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CITOHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFTODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CJOHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFCFDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCWDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCBHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTSC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRAMAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCMC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMCCAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TNF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSNET
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CNBCC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HLN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BNNB
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FNC
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MSNBCCI
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BBCWDNA
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MTVCAN
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",OUTTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRTS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TOONAVN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NICKC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",APC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TFC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FJR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WLDBTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPARK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EWTNC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DYSTRC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SALTHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CORCOSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DEJA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",GSN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FOODC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HGTVC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SLICE
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MAGNS
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",274
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TANDE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",JTV
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COOKC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",ONE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",H2C
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",OWNC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TDCC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HISTC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TLCCAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AHCC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",IDC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BELLPV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SSC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTIME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DOCUC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CPISD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ADSM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",AMCCAN
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HBO1
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRV1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRV2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRV3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRV4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",STZ1S
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",STZ2S
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HS70
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HS80
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HS90
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HS00
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WGN
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WPIX
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WSBK
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SCHTHM
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SCVALT
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SCGINX
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CPAC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",AMITVHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CIITDT
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CHNUDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",JTVHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TSCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CBNTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FIBETV1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CJCHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CIHFDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CJONDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TWNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",ASNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WBZDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WMEDDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WBTSCD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WFXTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WCVBDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TLCHDBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CNNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",APTNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",ARTSCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SHCSCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",AMCCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WPCHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FOODCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DRAMA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CBNEWSH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",NWSNTHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CMTHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MUCHHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HGTVCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",OWNCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",HISTHDC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TDCCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COMDY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CHCHDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CITYDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CBLTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CIIIDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CFTODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBUTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIVTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHANDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTSDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KINGDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KOMODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DVELO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SMTH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SLICEHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATUR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BBCF
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CP24HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HLNHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BBCNAHD
-
-  -
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MSNBCHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECANHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FNCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MAKEFL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",VISIHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MAGNH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FXCHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FXXC
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DTOURHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",PARCANH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BETCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CNBCCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TNF
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CJNTDT
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVUDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GSNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TANDEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WNYODT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFMTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJMTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHNMDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OMNIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBCEC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DSCIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GAMTVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGRETH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGVIBH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STGLOUH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CTRYH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGQO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TOONAVN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TREECHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",YTVHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRTN
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TFCHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WLDBHD
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DISCAHD
-
-  -
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BOOMH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SPARKHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",APCHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",NICKCHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DISXDCH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SNEWSHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",BNNBH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COTTHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",LIFECHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",DOCUCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CICADT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTVCHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFEH
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COOKCHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MTIMEHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",ADSMH
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
--
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SEDM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MVNETOD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",STZVOD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",SUPCHOD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",YTVDM
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FAMCCDM
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",TREEDM
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRAVE
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",FJRDM
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CRAVEOD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",COWCAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",CI
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",IDCHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",AXSTVC
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",WATER
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",ONEHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",OUTTVHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",H2CHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",MTV2CHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",RFDCAN
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""
-group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLX
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AQTVHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AQTVHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BELLPV
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID27
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HBO1HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HBOCWHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV1H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV2H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV3H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STZ1H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STZ2H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WGNDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCMCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCFSHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCHHHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCVTHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCGXHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SSCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BTOPI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WPIXDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WSBKDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KTLADT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HS70
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HS80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HS90
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HS00
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BELL4KB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BSPMO4K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2TSNK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN3HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN4HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN5HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MLBNCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SP4KB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNOHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNWHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNWLH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLNTCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLFHDB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OLCCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",REVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FSRHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBATVCD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WWEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SPMANHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMPLSCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",group-title="",NHLH1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHH10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHH11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBA10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AOVMV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAYBOY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAYHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRCLFHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DORCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EXXXTSY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PENTCPM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HUSLRHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIMT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUFT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",METEO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMITELE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVASPRT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LCN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TOONF"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAGINO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DISNF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOOPA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VRAKTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ELLEF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRISE2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANALD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TFO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTCF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SERIES
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ADDIK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CASASD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EVAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZESTE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MOICIE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRISSON
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CRAVEOD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRAND
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOUTB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIMTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTFDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVMDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CPACFHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNISHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMITELH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBFTDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSP2H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LCNHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TOONFHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAGHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISNFHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOOPAHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VRAKHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTUDT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SCLA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ELLEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MXHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRIS2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANDHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TFOHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTFHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SERIEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ADDIKHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CASATV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EVASHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZESTEHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MOIHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRSSNSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRAVEOD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRANHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRNHD2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANCH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRANDH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCHLDHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VCHLDHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FRCD2HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCHLDHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TVSVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DRAGN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WOW1HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GRTGBA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PNAX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ARYN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HUMTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BARYD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SETHCHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNZEEH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNCLRS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4UCAN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZEETVHD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZCIN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AAJTK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATNMAX2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PUNJA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PTC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZBNGL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NTV1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",JAYATV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TAMIL1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GKPL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SHGER
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DWPLUS 2672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PSIEB1C 2673
+#EXTINF:-1 tvg-id="" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
+#EXTINF:-1 tvg-id="" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
+https://dai.google.com/linear/hls/pa/event/NI3t7RVDSZaWrXE6fo_FzQ/stream/83decf19-c41f-48f0-88ba-5a16675d7435:DLS/variant/f8dd5735a25fd8b3baa287df67f5fb72/bandwidth/3102000.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF  
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH  
+https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png?w=55" group-title="",WBZ  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",WMED  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55"group-title="",CWEA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55" group-title="",CWEA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png?w=55" group-title="",TSC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png?w=55" group-title="",CICA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITY  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="kids",TREEC  
+#EXTINF:-1 tvg-id="I25.12045.zap2it.com" tvg-name="YTV" tvg-logo="" group-title="kids",YTV  
+#EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="Tree House" tvg-logo="" group-title="",CMT  
+#EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="" tvg-logo="" group-title="",APTNE  
+#EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="" tvg-logo="" group-title="",CP24  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OMNI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="",CHAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVU  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIIT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHNU  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KOMO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7SD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQ  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCWDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCBHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CICIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKNYHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHBXHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CITOHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJOHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFCFDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKYDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCKDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFCNDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFL Live  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MLBNC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNW  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNP  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLNETC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLFBO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OLN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAVTVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FSR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESPNCLC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBATVC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WWE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHTSD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WILDTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCCAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPMN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMPLSC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLC1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL6   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL7   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL10  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIVTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFCNDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCKDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKYDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CICIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKNYHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHBXHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CITOHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFTODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CJOHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CFCFDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCWDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCBHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTSC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRAMAS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCMC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMCCAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TNF  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSNET  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HLN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNB      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNC        
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MSNBCCI      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BBCWDNA      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTVCAN      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",OUTTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRTS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TOONAVN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NICKC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",APC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TFC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FJR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WLDBTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPARK  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EWTNC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DYSTRC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SALTHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CORCOSD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DEJA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",GSN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICE      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNS    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",274    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TANDE    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",JTV    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COOKC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONE    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TDCC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HISTC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TLCCAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AHCC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",IDC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BELLPV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLX  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SSC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTIME  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DOCUC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CPISD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ADSM  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HBO1      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV2    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV3    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV4    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",STZ1S    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",STZ2S    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS70    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS80    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS90    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS00    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WGN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WPIX    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WSBK      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCHTHM    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCVALT    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCGINX    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CPAC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMITVHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CIITDT    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CHNUDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",JTVHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TSCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CBNTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FIBETV1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CJCHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CIHFDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CJONDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TWNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ASNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WBZDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WMEDDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WBTSCD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WFXTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WCVBDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TLCHDBO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",APTNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ARTSCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SHCSCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WPCHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DRAMA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CBNEWSH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",NWSNTHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CMTHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MUCHHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HISTHDC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TDCCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COMDY  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CHCHDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CITYDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CBLTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CIIIDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CFTODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBUTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIVTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHANDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTSDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KINGDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KOMODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DVELO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SMTH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICEHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATUR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BBCF    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CP24HD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HLNHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BBCNAHD       
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MSNBCHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECANHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAKEFL    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",VISIHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FXCHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FXXC      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DTOURHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",PARCANH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BETCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TNF    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CJNTDT    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVUDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GSNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TANDEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WNYODT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFMTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJMTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHNMDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OMNIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TLNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBCEC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DSCIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GAMTVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGRETH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGVIBH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STGLOUH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CTRYH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STGQO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TOONAVN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TREECHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",YTVHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRTN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TFCHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WLDBHD        
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISCAHD            
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BOOMH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SPARKHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",APCHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",NICKCHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISXDCH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SNEWSHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNBH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTTHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",LIFECHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DOCUCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CICADT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTVCHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFEH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COOKCHD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTIMEHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ADSMH      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR        
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SEDM  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MVNETOD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",STZVOD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SUPCHOD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",YTVDM    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FAMCCDM      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TREEDM      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRAVE    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FJRDM    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRAVEOD      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COWCAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CI    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",IDCHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AXSTVC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WATER    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONEHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OUTTVHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2CHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTV2CHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",RFDCAN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLX    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AQTVHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AQTVHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BELLPV    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID27  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID26  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID25  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BVID24  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HBO1HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HBOCWHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV1H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV2H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRV3H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STZ1H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",STZ2H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WGNDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCMCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCFSHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCHHHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCVTHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCGXHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SSCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BTOPI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WPIXDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WSBKDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KTLADT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HS70  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HS80  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HS90  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HS00  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BELL4KB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BSPMO4K  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2TSNK  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN2HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN3HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN4HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN5HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MLBNCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SP4KB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNOHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNWHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",619  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNWLH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLNTCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLFHDB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OLCCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN2HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",REVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FSRHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBATVCD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WWEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SPMANHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMPLSCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",group-title="",NHLH1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH6  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHLH7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLH9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHH10  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NHH11  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NBAH4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH6  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBAH9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NBA10  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD6  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NFLHD8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLHD9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD3  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD4  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMHD5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD6  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD10  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD11  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD12  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD13  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GMHD14  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AOVMV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAYBOY  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PLAYHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRCLFHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DORCL  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EXXXTSY  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PENTCPM  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HUSLRHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIMT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUFT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTF  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVM  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",METEO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNIS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMITELE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVASPRT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LCN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TOONF"  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAGINO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DISNF  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOOPA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VRAKTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTU  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ELLEF  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRISE2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANALD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TFO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTCF  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SERIES  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ADDIK  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CASASD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EVAS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ZESTE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MOICIE  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRISSON  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CRAVEOD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRAND  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOUTB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIMTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTFDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVMDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CPACFHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNISHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMITELH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBFTDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDS2HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDSIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSP2H  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LCNHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VIEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TOONFHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAGHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DISNFHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOOPAHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VRAKHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTUDT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SCLA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ELLEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MXHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PRIS2HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CANDHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TFOHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HISTFHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SERIEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ADDIKHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CASATV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EVASHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZESTEHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MOIHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FRSSNSD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CRAVEOD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRANHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRNHD2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANCH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRANDH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCHLDHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VCHLDHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FRCD2HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCHLDHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TVSVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DRAGN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WOW1HD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GRTGBA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PNAX  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ARYN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HUMTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BARYD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SETHCHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNZEEH  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNCLRS  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4UCAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZEETVHD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZCIN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AAJTK  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATNMAX2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PUNJA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PTC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZBNGL  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NTV1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",JAYATV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TAMIL1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GKPL  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2671  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SHGER  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DWPLUS   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PSIEB1C 
