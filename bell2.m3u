@@ -199,7 +199,8 @@ http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS80    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS90    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS00    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WGN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WGN   
+https://wgntv.com/on-air/live-streaming/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WPIX    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WSBK      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCHTHM    
