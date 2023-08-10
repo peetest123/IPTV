@@ -580,6 +580,7 @@ http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZEETVHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZCIN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AAJTK  
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATNMAX2  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PUNJA  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PTC  
@@ -587,6 +588,7 @@ http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="bangla",NTV1  
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691698666/ei/ifHUZPKMO8K_8wTr1IKABw/ip/159.2.150.246/id/8Iqn5gWaY1Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1HwphNwrmSNOvP5K0socwg15TGEkNJof8D9Ew/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000022/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIhAJmzgUiu8EcRRJ6yD0Uc8CspEDmJOYjbDqw2DwBhVL5yAh8ErvN6QxMc_2yzmOFSy_QGmSnmTr-A0exuEzjO2tRp/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",JAYATV  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691700020/ei/0_bUZJ70PIKwkAO13664Cw/ip/159.2.150.246/id/ddSDfiysLyA.2/source/yt_live_broadcast/requiressl/yes/tx/24698586/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6B5VlDy-aAiX44GZc04wWFS-owsJzUf79vpcA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUBaDwMTCEQ4RqhdTB2OJfi5TM-Bn1npkvQ2gzteDKKQCIQDVfWKk7NZ2LfI4XVzDxkcFofbcy6-iqw_PyuFTkxWC3A%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TAMIL1  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GKPL  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2671  
