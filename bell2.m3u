@@ -32,7 +32,8 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVU  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIIT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHNU  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KOMO  
+#EXTINF:-1 tvg-id="" tvg-name="komo" tvg-logo=""group-title="news",KOMO  
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7SD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQ  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
