@@ -315,6 +315,7 @@ https://wgntv.com/on-air/live-streaming/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISXDCH    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SNEWSHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNBH    
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTTHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",LIFECHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DOCUCHD  
