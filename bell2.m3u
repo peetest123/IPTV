@@ -24,10 +24,10 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png?w=55" group-title="",CMT  
 #EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="APTN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png?w=55" group-title="",APTNE  
 #EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="CP24" tvg-logo="" group-title="",CP24  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",JTV  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OMNI  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="",JTV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png?w=55" group-title="",OMNI  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png?w=55" group-title="",CBUT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17594/s10108_ll_h15_ab.png?w=55" group-title="",CIVT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="",CHAN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVU  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIIT  
