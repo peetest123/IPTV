@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
-#EXTINF:-1 tvg-id="" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
+#EXTINF:-1 tvg-id="12940" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
   https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF  
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
