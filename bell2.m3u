@@ -589,6 +589,7 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SETHCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNZEEH  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ATNCLRS  
+http://tnaem.livenettv.sx:5432/pose/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDQ6MDA6MDkgUE0maGFzaF92YWx1ZT0ySTk2Z2NEQ3NXSUwvb3FUNkxkRzdnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4UCAN  
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZEETVHD  
