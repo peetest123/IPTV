@@ -582,7 +582,8 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FRCD2HD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCHLDHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TVSVHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DRAGN  
+#EXTINF:-1 tvg-id="" tvg-name="dragon tv" tvg-logo=""group-title="",DRAGN  
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WOW1HD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GRTGBA  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PNAX  
