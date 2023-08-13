@@ -193,7 +193,8 @@ http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HBO1      
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="Movies",CRV1  
+https://live-crave.video.9c9media.com/f/crave/crave1/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV2    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV3    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV4    
