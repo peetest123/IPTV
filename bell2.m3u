@@ -214,7 +214,8 @@ https://wgntv.com/on-air/live-streaming/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCHTHM    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCVALT    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SCGINX    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CPAC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CPAC   
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMITVHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CIITDT    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CHNUDT  
