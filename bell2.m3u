@@ -124,7 +124,7 @@ http://dyna.livenettv.sx:21321 /hera/tsn1hd/playlist.m3u8 ?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTSC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRAMAS  
-#EXTINF:-1 tvg-id="" tvg-name="tcm" tvg-logo="" group-title="",TCMC  
+#EXTINF:-1 tvg-id="" tvg-name="tcm" tvg-logo="https://en.m.wikipedia.org/wiki/File:TCM_2021.svg" group-title="movies",TCMC  
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="" group-title="",AMCCAN  
 http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIzIDEyOjU2OjEyIEFNJmhhc2hfdmFsdWU9RXFvTkNobVFVQ3U2djNwcG0xdkZRZz09JnZhbGlkbWludXRlcz0y
