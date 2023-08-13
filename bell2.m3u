@@ -142,6 +142,7 @@ http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSNET  
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCC    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HLN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNB      
