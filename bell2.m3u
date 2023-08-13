@@ -40,7 +40,8 @@ https://debate-elections-2019.akamaized.net/cf11202114c9447483667f6ca2e93dc0/us-
 #EXTINF:-1 tvg-id="" tvg-name="komo" tvg-logo=""group-title="news",KOMO  
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7SD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCPQ  
+#EXTINF:-1 tvg-id="" tvg-name="kcpq" tvg-logo=""group-title="",KCPQ  
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
