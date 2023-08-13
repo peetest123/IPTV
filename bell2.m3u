@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="12940" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
   https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF  
-EXTINF:-1 tvg-id="" tvg-name="ASN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
+#EXTINF:-1 tvg-id="" tvg-name="ASN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
 https://live-ctv.video.9c9media.com/f/ctv/asn/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH  
 https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd  
