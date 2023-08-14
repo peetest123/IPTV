@@ -617,6 +617,7 @@ http://tnaem.livenettv.sx:5432/pose/colorsbangla/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",B4UCAN  
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZEETVHD  
+https://z5ak-cmaflive.zee5.com/out/v1/253b3f5a58f045879602e43350615739/Zee_TV_Canada_HD/index.m3u8?hdnts=st=1692054038~exp=1692057038~acl=/out/v1/253b3f5a58f045879602e43350615739/Zee_TV_Canada_HD/index.m3u8*~hmac=8ff8b381e526bcbc6e51ef0a85f3ec36b0dae1c1fc9fa1c8f7d427757fb6e974
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ZCIN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AAJTK  
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
