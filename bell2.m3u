@@ -486,7 +486,8 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EXXXTSY  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PENTCPM  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HUSLRHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIMT  
+#EXTINF:-1 tvg-id="" tvg-name="TVA" tvg-logo="" group-title="French",CIMT(TVA)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBUFT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDI  
