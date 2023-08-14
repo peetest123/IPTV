@@ -628,7 +628,7 @@ http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PTC  
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="10593" tvg-name="" tvg-logo=""group-title="",ZBNGL 
-http://xtream.efiberbd.net:25461/live/mkaua/stream/5.m3u8
+https://z5ak-cmaflive.zee5.com/out/v1/f4c3fe0b7cc44d93b25b3c093132cb53/Zee-Bangla/index.m3u8?hdnts=st=1692055305~exp=1692058305~acl=/out/v1/f4c3fe0b7cc44d93b25b3c093132cb53/Zee-Bangla/index.m3u8*~hmac=87c031b0c3bce6e153c53ff1f88d2e2334cb12c001e6c346fdb3ee77be475d04
 #EXTINF:-1 tvg-id="" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="bangla",NTV1  
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIzIDk6NTI6MTkgUE0maGFzaF92YWx1ZT1xVTY0MXB3OTR2RExlUFZXaTVlV1NBPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",JAYATV  
