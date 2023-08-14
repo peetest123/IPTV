@@ -492,7 +492,8 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 #EXTINF:-1 tvg-id="" tvg-name="ICI TELE" tvg-logo="" group-title="French",CBUFT 
 https://dai.google.com/linear/hls/pa/event/4mVauNxrSQGld0MFJqfjMQ/stream/0b3775ce-b3b9-4d61-bafa-7ad02ca6eedd:MRN2/variant/1e21ada24df260741f6e9a11473ba64e/bandwidth/3226300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDI  
+#EXTINF:-1 tvg-id="" tvg-name="RDI" tvg-logo="" group-title="French",RDI  
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noovo" tvg-logo="" group-title="French",CFTF  
 https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5  
