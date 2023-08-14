@@ -1,8 +1,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
-#EXTINF:-1 tvg-id="12940" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
+#EXTINF:-1 tvg-id="12940" tvg-name=“CBC Newfoundland” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
   https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF  
+https://watch.globaltv.com/view/a9737ae8-30ed-11ec-b2c4-0242ac110008
 #EXTINF:-1 tvg-id="" tvg-name="ASN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
 https://live-ctv.video.9c9media.com/f/ctv/asn/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH  
@@ -11,7 +12,8 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",WMED  
 https://wneddt.lls.pbs.org/out/v1/9042ad5168e54cf8bf14b5db5582a84a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
+https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
