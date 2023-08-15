@@ -40,14 +40,14 @@ https://live-news.video.9c9media.com/f/news/cp24/manifest.mpd
 https://debate-elections-2019.akamaized.net/cf11202114c9447483667f6ca2e93dc0/us-west-2/89871584001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png?w=55" group-title="",CBUT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17594/s10108_ll_h15_ab.png?w=55" group-title="",CIVT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="",CHAN  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKVU  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CIIT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CHNU  
-#EXTINF:-1 tvg-id="" tvg-name="komo" tvg-logo=""group-title="news",KOMO  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10050/s10050_ll_h15_ac.png?w=55" group-title="",CHAN  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10136/s10125_ll_h15_ab.png?w=55"group-title="",CKVU  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17344/s17344_ll_h15_ab.png?w=55"group-title="",CIIT  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27503/s27503_ll_h15_aa.png?w=55"group-title="",CHNU  
+#EXTINF:-1 tvg-id="" tvg-name="komo" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10626/s10003_ll_h15_ac.png?w=55"group-title="news",KOMO  
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KIRO7SD  
-#EXTINF:-1 tvg-id="" tvg-name="kcpq" tvg-logo=""group-title="",KCPQ  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/88515/s10098_ll_h15_ac.png?w=55"group-title="",KIRO7SD  
+#EXTINF:-1 tvg-id="" tvg-name="kcpq" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10387/s10212_ll_h15_ab.png?w=55"group-title="",KCPQ  
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS  
