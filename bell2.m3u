@@ -622,20 +622,19 @@ https://z5ak-cmaflive.zee5.com/out/v1/253b3f5a58f045879602e43350615739/Zee_TV_Ca
 https://z5ak-cmaflive.zee5.com/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8?hdnts=st=1692055585~exp=1692058585~acl=/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8*~hmac=622d16d8d6d99d912e56fdb340c2133887dce9e75d3d73f7c36d6ca02a7fd569
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AAJTK  
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATNMAX2  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png?w=55" group-title="",ATNMAX2  
 http://103.81.104.118/hls/stream19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PUNJA  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PTC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png?w=55"group-title="",PUNJA  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png?w=55"group-title="",PTC  
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="10593" tvg-name="" tvg-logo=""group-title="",ZBNGL 
+#EXTINF:-1 tvg-id="10593" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100075/s100075_ll_h9_aa.png?w=55"group-title="",ZBNGL 
 https://z5ak-cmaflive.zee5.com/out/v1/f4c3fe0b7cc44d93b25b3c093132cb53/Zee-Bangla/index.m3u8?hdnts=st=1692055305~exp=1692058305~acl=/out/v1/f4c3fe0b7cc44d93b25b3c093132cb53/Zee-Bangla/index.m3u8*~hmac=87c031b0c3bce6e153c53ff1f88d2e2334cb12c001e6c346fdb3ee77be475d04
 #EXTINF:-1 tvg-id="" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="bangla",NTV1  
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIzIDk6NTI6MTkgUE0maGFzaF92YWx1ZT1xVTY0MXB3OTR2RExlUFZXaTVlV1NBPT0mdmFsaWRtaW51dGVzPTQw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",JAYATV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28756/s28756_ll_h15_aa.png?w=55"group-title="",JAYATV  
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691700020/ei/0_bUZJ70PIKwkAO13664Cw/ip/159.2.150.246/id/ddSDfiysLyA.2/source/yt_live_broadcast/requiressl/yes/tx/24698586/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6B5VlDy-aAiX44GZc04wWFS-owsJzUf79vpcA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUBaDwMTCEQ4RqhdTB2OJfi5TM-Bn1npkvQ2gzteDKKQCIQDVfWKk7NZ2LfI4XVzDxkcFofbcy6-iqw_PyuFTkxWC3A%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TAMIL1  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GKPL  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2671  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SHGER  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",DWPLUS   
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PSIEB1C 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89703/s89703_ll_h15_aa.png?w=55"group-title="",TAMIL1  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55629/s55629_ll_h6_aa.png?w=55"group-title="",GKPL  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89502/s89502_ll_h9_aa.png?w=55"group-title="",SHGER  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/74479/s74479_ll_h15_ad.png?w=55"group-title="",DWPLUS   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/96541/s96541_ll_h15_aa.png?w=55"group-title="",PSIEB1C 
