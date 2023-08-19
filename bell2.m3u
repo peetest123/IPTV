@@ -24,7 +24,6 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",WMED  
 #KODIPROP:inputstream=plugin.video.plutotv
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
 https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
