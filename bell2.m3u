@@ -239,6 +239,8 @@ plugin://plugin.video.lntv/play/1370/play.pvr
 plugin://plugin.video.lntv/play/2102/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CPISD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ADSM  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LifeC
+plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
