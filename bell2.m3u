@@ -126,7 +126,8 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WILDTV  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCCAN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPMN  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GMPLSC  
+#EXTINF:-1 tvg-id="" tvg-name="GMPLSC" tvg-logo=""group-title="",Game Tv  
+plugin://plugin.video.lntv/play/1921/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLC1  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL2  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL3  
