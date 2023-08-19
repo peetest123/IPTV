@@ -286,6 +286,7 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CHCHDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CITYDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CBLTDT  
+plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhSPC%2FE2aW7OYpTdja%2Fmeta.smil%3Ffeed%3DCBC%2520Gem%2520Live%2520Linear%2520-%2520PROD%26manifest%3Dm3u%26format%3Dsmil%26mbr%3Dtrue&image=https%3A%2F%2Fthumbnails.cbc.ca%2Fmaven_legacy%2Fthumbnails%2FCBC_OTT_VMS%2FLive_Channel_Static_Images%2FToronto_2880x1620.jpg&labels=studio%3DCanadian%2BBroadcasting%2BCorporation%26country%3DCanada%26title%3DCBLT%2BToronto%26plot%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BToronto%26plotoutline%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BToronto%26mediatype%3Dvideo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CIIIDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CFTODT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBUTDT  
