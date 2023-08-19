@@ -1,29 +1,38 @@
 
 #EXTINF:-1 tvg-id="I1.96458.zap2it.com" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
-#EXTINF:-1 tvg-id="I3.17400.zap2it.com" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="",CBNT  
+#EXTINF:-1 tvg-id="I3.17400.zap2it.com" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="Entertainment",CBNT  
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="I4.17396.zap2it.com" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="",CIHF  
-https://watch.globaltv.com/view/a9737ae8-30ed-11ec-b2c4-0242ac110008
-#EXTINF:-1 tvg-id="" tvg-name="ASN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="",ASN  
+#EXTINF:-1 tvg-id="I4.17396.zap2it.com" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="Entertainment",CIHF  
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc9/corus-globaltv.isml/.mpd
+
+#EXTINF:-1 tvg-id="I5.12892.zap2it.com" tvg-name="ASN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png?w=55" group-title="Entertainment",ASN  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjhAYmR1LmZha2UuZG9tYWluIiwiYnJhbmRfcG9saWNpZXMiOlsic3RyZWFtX2NvbmN1cnJlbmN5OjIiLCJzdWJzY3JpcHRpb246Y3R2Il0sImNyZWF0aW9uX2RhdGUiOjE2OTIyNzkyMDcwODYsImFpc19pZCI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjgiLCJiZHVfcHJvdmlkZXIiOiJCZWxsIEFsaWFudCBGaWJyZU9wIiwiYXV0aG9yaXRpZXMiOlsiQkRVX1VTRVIiXSwiY2xpZW50X2lkIjoiY3R2LXdlYiIsImJyYW5kX2lkIjoiMWQ3MmQ5OTBjYjc2NWRlN2U0MjExMTE0IiwiYWNjb3VudF9pZCI6IjYyNDUwYjA2MjI4NGMwMjRiZDc2NDZiOCIsInByb2ZpbGVfaWQiOiJkZTk4Y2EwZTdhMzI0NzdiYTE2YzYwNzJkZmNiNjk5NSIsInNjb3BlIjpbImRlZmF1bHQiLCJtYXN0ZXJfcHJvZmlsZSIsIm1hdHVyaXR5OmFkdWx0Iiwic3Vic2NyaXB0aW9uOmN0diJdLCJleHAiOjE2OTIyOTM2MDYsImp0aSI6Ik9TakZ3dDhpa2hfNlhLX1llQTIyalpUUlBVZyIsImFjY291bnQiOnsicG9zdGFsX2NvZGUiOiJBMUMiLCJzdGF0dXMiOiJBQ1RJVkUifX0.i39JmxTvjhO-tR5Z2jF2BK0i18IWGWFsAdiF0nA0qZwbyYsU8Sw757jyu0wT7Av-UQ8UYzljypvm4GEqcj9Dd3ols_g8AkSW2fvcd3Cb-jUDKTpoCJo4De87Q4gAWmLNpG0k8eYhoHqZQZLWBH2RfH524iv9dOAtqfLpwHKL8YR8ymZ01ssA-_Hz18p65uuvFFqF0D7EdxHJ28Rw9TiggvBsvD7Ki2uOmjahC3yYJPED25Tidc9YZLb2ldfs0fnS0HtsXCzckG-lclScezjhdvfjRBqTTEftLVt-dP17ZDI4d5qT3cHDYGKSRZuL03rMZpTiqQdM27UA4MYodNu9yg|Content-Type=application/octet-stream|R{SSM}|
 https://live-ctv.video.9c9media.com/f/ctv/asn/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="CJCH" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH  
+
+#EXTINF:-1 tvg-id="I6.14863.zap2it.com" tvg-name="CJCH" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png?w=55" group-title="",CJCH  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjhAYmR1LmZha2UuZG9tYWluIiwiYnJhbmRfcG9saWNpZXMiOlsic3RyZWFtX2NvbmN1cnJlbmN5OjIiLCJzdWJzY3JpcHRpb246Y3R2Il0sImNyZWF0aW9uX2RhdGUiOjE2OTIyNzkyMDcwODYsImFpc19pZCI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjgiLCJiZHVfcHJvdmlkZXIiOiJCZWxsIEFsaWFudCBGaWJyZU9wIiwiYXV0aG9yaXRpZXMiOlsiQkRVX1VTRVIiXSwiY2xpZW50X2lkIjoiY3R2LXdlYiIsImJyYW5kX2lkIjoiMWQ3MmQ5OTBjYjc2NWRlN2U0MjExMTE0IiwiYWNjb3VudF9pZCI6IjYyNDUwYjA2MjI4NGMwMjRiZDc2NDZiOCIsInByb2ZpbGVfaWQiOiJkZTk4Y2EwZTdhMzI0NzdiYTE2YzYwNzJkZmNiNjk5NSIsInNjb3BlIjpbImRlZmF1bHQiLCJtYXN0ZXJfcHJvZmlsZSIsIm1hdHVyaXR5OmFkdWx0Iiwic3Vic2NyaXB0aW9uOmN0diJdLCJleHAiOjE2OTIyOTM2MDYsImp0aSI6Ik9TakZ3dDhpa2hfNlhLX1llQTIyalpUUlBVZyIsImFjY291bnQiOnsicG9zdGFsX2NvZGUiOiJBMUMiLCJzdGF0dXMiOiJBQ1RJVkUifX0.i39JmxTvjhO-tR5Z2jF2BK0i18IWGWFsAdiF0nA0qZwbyYsU8Sw757jyu0wT7Av-UQ8UYzljypvm4GEqcj9Dd3ols_g8AkSW2fvcd3Cb-jUDKTpoCJo4De87Q4gAWmLNpG0k8eYhoHqZQZLWBH2RfH524iv9dOAtqfLpwHKL8YR8ymZ01ssA-_Hz18p65uuvFFqF0D7EdxHJ28Rw9TiggvBsvD7Ki2uOmjahC3yYJPED25Tidc9YZLb2ldfs0fnS0HtsXCzckG-lclScezjhdvfjRBqTTEftLVt-dP17ZDI4d5qT3cHDYGKSRZuL03rMZpTiqQdM27UA4MYodNu9yg|Content-Type=application/octet-stream|R{SSM}|
 https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd  
-#EXTINF:-1 tvg-id="" tvg-name="WBZ" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png?w=55" group-title="",WBZ  
+
+#EXTINF:-1 tvg-id="I7.11325.zap2it.com" tvg-name="WBZ" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png?w=55" group-title="",WBZ  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjhAYmR1LmZha2UuZG9tYWluIiwiYnJhbmRfcG9saWNpZXMiOlsic3RyZWFtX2NvbmN1cnJlbmN5OjIiLCJzdWJzY3JpcHRpb246Y3R2Il0sImNyZWF0aW9uX2RhdGUiOjE2OTIyNzkyMDcwODYsImFpc19pZCI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjgiLCJiZHVfcHJvdmlkZXIiOiJCZWxsIEFsaWFudCBGaWJyZU9wIiwiYXV0aG9yaXRpZXMiOlsiQkRVX1VTRVIiXSwiY2xpZW50X2lkIjoiY3R2LXdlYiIsImJyYW5kX2lkIjoiMWQ3MmQ5OTBjYjc2NWRlN2U0MjExMTE0IiwiYWNjb3VudF9pZCI6IjYyNDUwYjA2MjI4NGMwMjRiZDc2NDZiOCIsInByb2ZpbGVfaWQiOiJkZTk4Y2EwZTdhMzI0NzdiYTE2YzYwNzJkZmNiNjk5NSIsInNjb3BlIjpbImRlZmF1bHQiLCJtYXN0ZXJfcHJvZmlsZSIsIm1hdHVyaXR5OmFkdWx0Iiwic3Vic2NyaXB0aW9uOmN0diJdLCJleHAiOjE2OTIyOTM2MDYsImp0aSI6Ik9TakZ3dDhpa2hfNlhLX1llQTIyalpUUlBVZyIsImFjY291bnQiOnsicG9zdGFsX2NvZGUiOiJBMUMiLCJzdGF0dXMiOiJBQ1RJVkUifX0.i39JmxTvjhO-tR5Z2jF2BK0i18IWGWFsAdiF0nA0qZwbyYsU8Sw757jyu0wT7Av-UQ8UYzljypvm4GEqcj9Dd3ols_g8AkSW2fvcd3Cb-jUDKTpoCJo4De87Q4gAWmLNpG0k8eYhoHqZQZLWBH2RfH524iv9dOAtqfLpwHKL8YR8ymZ01ssA-_Hz18p65uuvFFqF0D7EdxHJ28Rw9TiggvBsvD7Ki2uOmjahC3yYJPED25Tidc9YZLb2ldfs0fnS0HtsXCzckG-lclScezjhdvfjRBqTTEftLVt-dP17ZDI4d5qT3cHDYGKSRZuL03rMZpTiqQdM27UA4MYodNu9yg|Content-Type=application/octet-stream|R{SSM}|
 https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",WMED  
 plugin://plugin.video.plutotv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
 https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
