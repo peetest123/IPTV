@@ -1,0 +1,62 @@
+#EXTM3U
+# Use https://epggw.a1.net/img/station/darkbg/200x200/ as logo URL.
+# Use https://tvthek.orf.at/livestream/_token for new DRM tokens.
+# See https://github.com/iptv-org/iptv/blob/master/streams/at.m3u
+
+# TV
+#EXTINF:-1 tvg-id="908",ASN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjhAYmR1LmZha2UuZG9tYWluIiwiYnJhbmRfcG9saWNpZXMiOlsic3RyZWFtX2NvbmN1cnJlbmN5OjIiLCJzdWJzY3JpcHRpb246Y3R2Il0sImNyZWF0aW9uX2RhdGUiOjE2OTIyNzkyMDcwODYsImFpc19pZCI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjgiLCJiZHVfcHJvdmlkZXIiOiJCZWxsIEFsaWFudCBGaWJyZU9wIiwiYXV0aG9yaXRpZXMiOlsiQkRVX1VTRVIiXSwiY2xpZW50X2lkIjoiY3R2LXdlYiIsImJyYW5kX2lkIjoiMWQ3MmQ5OTBjYjc2NWRlN2U0MjExMTE0IiwiYWNjb3VudF9pZCI6IjYyNDUwYjA2MjI4NGMwMjRiZDc2NDZiOCIsInByb2ZpbGVfaWQiOiJkZTk4Y2EwZTdhMzI0NzdiYTE2YzYwNzJkZmNiNjk5NSIsInNjb3BlIjpbImRlZmF1bHQiLCJtYXN0ZXJfcHJvZmlsZSIsIm1hdHVyaXR5OmFkdWx0Iiwic3Vic2NyaXB0aW9uOmN0diJdLCJleHAiOjE2OTIyOTM2MDYsImp0aSI6Ik9TakZ3dDhpa2hfNlhLX1llQTIyalpUUlBVZyIsImFjY291bnQiOnsicG9zdGFsX2NvZGUiOiJBMUMiLCJzdGF0dXMiOiJBQ1RJVkUifX0.i39JmxTvjhO-tR5Z2jF2BK0i18IWGWFsAdiF0nA0qZwbyYsU8Sw757jyu0wT7Av-UQ8UYzljypvm4GEqcj9Dd3ols_g8AkSW2fvcd3Cb-jUDKTpoCJo4De87Q4gAWmLNpG0k8eYhoHqZQZLWBH2RfH524iv9dOAtqfLpwHKL8YR8ymZ01ssA-_Hz18p65uuvFFqF0D7EdxHJ28Rw9TiggvBsvD7Ki2uOmjahC3yYJPED25Tidc9YZLb2ldfs0fnS0HtsXCzckG-lclScezjhdvfjRBqTTEftLVt-dP17ZDI4d5qT3cHDYGKSRZuL03rMZpTiqQdM27UA4MYodNu9yg|Content-Type=application/octet-stream|R{SSM}|
+https://live-ctv.video.9c9media.com/f/ctv/asn/manifest.mpd
+#EXTINF:-1 tvg-id="638",ORF 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=gl8%2BRQei5hJlVXFucAQOaqJoNY88ivFQVtbWEuIvUoR3Yb%2FLR3oPJQkeTOn8KgHkDL4ZyICVXTymIsAEY32V9Laq64B3kLliVqEcUDHVdFlcXGhcSPNX9TW9G3fgWEavzkK%2FlA4QGu7%2BkFRUuu0uRuzfbf%2FY%2Bc6SV0uTnC9eRgxni3fpDg%2B4ETHHjNMQ6KVw%2BuHUcLn5Q0%2BtvFcRSVR94UVxsXtHo0Sa3VlUYLKr4zMtZaGfaoBO8SiGcRmThTdV|Content-Type=application/octet-stream|R{SSM}|
+https://orf2.mdn.ors.at/orf/orf2/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-id="633",ORF 2 OÖ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=gl8%2BRQei5hJlVXFucAQOaqJoNY88ivFQVtbWEuIvUoR3Yb%2FLR3oPJQkeTOn8KgHkDL4ZyICVXTymIsAEY32V9Laq64B3kLliVqEcUDHVdFlcXGhcSPNX9TW9G3fgWEavzkK%2FlA4QGu7%2BkFRUuu0uRuzfbf%2FY%2Bc6SV0uTnC9eRgxni3fpDg%2B4ETHHjNMQ6KVw%2BuHUcLn5Q0%2BtvFcRSVR94UVxsXtHo0Sa3VlUYLKr4zMtZaGfaoBO8SiGcRmThTdV|Content-Type=application/octet-stream|R{SSM}|
+https://orf2ooe.mdn.ors.at/orf/orf2ooe/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-id="628",ORF III Kultur und Information
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=gl8%2BRQei5hJlVXFucAQOaqJoNY88ivFQVtbWEuIvUoR3Yb%2FLR3oPJQkeTOn8KgHkDL4ZyICVXTymIsAEY32V9Laq64B3kLliVqEcUDHVdFlcXGhcSPNX9TW9G3fgWEavzkK%2FlA4QGu7%2BkFRUuu0uRuzfbf%2FY%2Bc6SV0uTnC9eRgxni3fpDg%2B4ETHHjNMQ6KVw%2BuHUcLn5Q0%2BtvFcRSVR94UVxsXtHo0Sa3VlUYLKr4zMtZaGfaoBO8SiGcRmThTdV|Content-Type=application/octet-stream|R{SSM}|
+https://orf3.mdn.ors.at/orf/orf3/qxb/manifest.mpd
+#EXTINF:-1 tvg-id="629",ORF Sport+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=gl8%2BRQei5hJlVXFucAQOaqJoNY88ivFQVtbWEuIvUoR3Yb%2FLR3oPJQkeTOn8KgHkDL4ZyICVXTymIsAEY32V9Laq64B3kLliVqEcUDHVdFlcXGhcSPNX9TW9G3fgWEavzkK%2FlA4QGu7%2BkFRUuu0uRuzfbf%2FY%2Bc6SV0uTnC9eRgxni3fpDg%2B4ETHHjNMQ6KVw%2BuHUcLn5Q0%2BtvFcRSVR94UVxsXtHo0Sa3VlUYLKr4zMtZaGfaoBO8SiGcRmThTdV|Content-Type=application/octet-stream|R{SSM}|
+https://orfs.mdn.ors.at/orf/orfs/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-id="20130",ServusTV
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master_6692.m3u8
+#EXTINF:-1 tvg-id="887",gotv
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dorftv.at/sites/default/themes/dorftv_omega/logo.png",dorftv
+https://stream.openplayout.org/hls/dorftv/live_high/index.m3u8
+#EXTINF:-1 tvg-id="20197",3SAT
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="20129",ARTE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="20131",Das Erste
+https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="646",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3056_av-b.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1 tvg-id="20199",BR
+https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+
+# Radio
+#EXTINF:-1 tvg-id="225894952366" radio="true",Ö1
+https://orf-live.ors-shoutcast.at/oe1-q1a
+#EXTINF:-1 tvg-id="225894440332" radio="true",Radio Oberösterreich
+https://orf-live.ors-shoutcast.at/ooe-q1a
+#EXTINF:-1 tvg-id="224890919986" radio="true",Hitradio Ö3
+https://orf-live.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1 tvg-id="225894952285" radio="true",FM4
+https://orf-live.ors-shoutcast.at/fm4-q1a
