@@ -98,8 +98,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKYDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCKDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFCNDT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN1  
-http://dyna.livenettv.sx:21321 /hera/tsn1hd/playlist.m3u8 ?wmsAuthSign=c2VydmVyX3Rpb WU9OC8xMC8yMDIzIDEyOjI2OjI11 EFNJmhhc2hfdmFsdWU9NnMxR1d JeDZINWdnRStEZXJhWkOwQT09J nZhbGlkbWludXRlczOy
+#EXTINF:-1 tvg-id="I100.11182.zap2it.com" tvg-name="TSN1" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png" group-title="sports",TSN1 
+plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFL Live  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN2  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN3  
@@ -440,7 +440,8 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HS00  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BELL4KB  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BSPMO4K  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSNHD  
+#EXTINF:-1 tvg-id="I600.34313.zap2it.com" tvg-name="TSN HD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png" group-title="sports",TSNHD 
+plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",2TSNK  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN2HD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TSN3HD  
