@@ -212,7 +212,8 @@ http://stariptv.top:2086/7899/7899/20302?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONE    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TDCC    
+#EXTINF:-1 tvg-id="I286.15098.zap2it.com" tvg-name="TDCC" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15098/s15098_ll_h15_ab.png"  group-title="Science",The Discovery Channel  
+plugin://plugin.video.lntv/play/1916/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HISTC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TLCCAN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGC  
