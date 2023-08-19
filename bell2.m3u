@@ -214,6 +214,7 @@ plugin://plugin.video.lntv/play/1918/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",GSN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVC    
+plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICE      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNS    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",274    
@@ -309,6 +310,7 @@ plugin://plugin.video.lntv/play/1930/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MUCHHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVCH  
+plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HISTHDC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TDCCHD  
