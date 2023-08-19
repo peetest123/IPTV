@@ -164,7 +164,7 @@ plugin://plugin.video.lntv/play/1921/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2022/03/turner-classic-movies-tcm-vector-logo-2022.png" group-title="movies",TCMC  
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="https://www.freepnglogos.com/images/amc-png-logo-images-4601.html" group-title="movies",AMCCAN  
-http://dyna.livenettv.sx:21321/hera/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIzIDEyOjU2OjEyIEFNJmhhc2hfdmFsdWU9RXFvTkNobVFVQ3U2djNwcG0xdkZRZz09JnZhbGlkbWludXRlcz0y
+plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN  
