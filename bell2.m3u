@@ -55,7 +55,9 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://citytvlivedrmprod.keydelivery.canadaeast.media.azure.net/Widevine/?kid=bec6bb23-5c23-4972-a557-429416e266c0
 https://citylive.citytv.com/8fcc037c-f1a0-44c5-a47a-35c55261854f/e0cf1e1e-d2ee-48a7-be9a-179ad310daf5.ism/manifest(format=mpd-time-cmaf,encryption=cenc)?__nn__=6093411609001&hdnts=st=1692471600~exp=1692475200~acl=/*~hmac=ec58592cfeabac61f253e03a6263af99e0f7ba5866fa78b1e00c565f4d4bf4b4
 #EXTINF:-1 tvg-id="" tvg-name="Treehouse" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17639/s17639_ll_h15_ab.png?w=55"group-title="kids",TREEC  
+plugin://plugin.video.lntv/play/2100/play.pvr
 #EXTINF:-1 tvg-id="I25.12045.zap2it.com" tvg-name="YTV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12045/s12045_ll_h9_ab.png?w=55" group-title="kids",YTV  
+plugin://plugin.video.lntv/play/1936/play.pvr
 #EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png?w=55" group-title="",CMT  
 #EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="APTN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png?w=55" group-title="",APTNE  
 #EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="CP24" tvg-logo="" group-title="",CP24  
