@@ -168,6 +168,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="https://www.freepnglogos.com/images/amc-png-logo-images-4601.html" group-title="movies",AMCCAN  
 plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
+plugin://plugin.video.lntv/play/1913/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
