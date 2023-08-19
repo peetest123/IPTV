@@ -28,6 +28,7 @@ https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
 https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
+plugin://plugin.video.cbc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8  
