@@ -174,7 +174,7 @@ plugin://plugin.video.lntv/play/1913/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES  
-
+plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN  
