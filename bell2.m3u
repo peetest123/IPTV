@@ -124,7 +124,8 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WWE  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHTSD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WILDTV  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBSCCAN  
+#EXTINF:-1 tvg-id="" tvg-name="CBSCCAN" tvg-logo="" group-title="sports",CBS Sports Network 
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D05b8976f35c90b1746783ad50413fcc9&amp;content=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPMN  
 #EXTINF:-1 tvg-id="" tvg-name="GMPLSC" tvg-logo=""group-title="",Game Tv  
 plugin://plugin.video.lntv/play/1921/play.pvr
