@@ -176,7 +176,8 @@ plugin://plugin.video.lntv/play/1913/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES  
 plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC 
+plugin://plugin.video.lntv/play/1908/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TNF  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS  
@@ -234,6 +235,7 @@ plugin://plugin.video.lntv/play/1916/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCI  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AHCC  
+plugin://plugin.video.lntv/play/1905/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",IDC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BELLPV  
