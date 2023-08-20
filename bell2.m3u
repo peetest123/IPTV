@@ -87,7 +87,12 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bam.nr-data.net/events/1/0e1aa09ab6?a=13521244&sa=1&v=1227.PROD&t=Unnamed%20Transaction&rst=32906&ck=0&s=d41af4293ba86ef2&ref=https://tv.bell.ca/watch/channel-AMIEH
+https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$AMIEH/index.mpd/Manifest?device=OPPE-WV-LIVE3&start=2019-01-02T00:00:00Z&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CKCWDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CJCBHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CKCODT  
