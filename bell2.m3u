@@ -87,7 +87,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AMITV
+#EXTINF:-1 tvg-id="I65.62670.zap2it.com" tvg-name="AMITV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62670/s62670_ll_h15_ab.png" group-title="Accesibility",AMI TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
