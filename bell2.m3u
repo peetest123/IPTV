@@ -61,7 +61,7 @@ plugin://plugin.video.lntv/play/1936/play.pvr
 #EXTINF:-1 tvg-id="I575.15072.zap2it.com" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png?w=55" group-title="",CMT  
 #EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="APTN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png?w=55" group-title="",APTNE  
 #EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="CP24" tvg-logo="" group-title="",CP24  
-https://live-news.video.9c9media.com/f/news/cp24/manifest.mpd
+plugin://plugin.video.lntv/play/1914/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="",JTV  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png?w=55" group-title="",OMNI  
 https://debate-elections-2019.akamaized.net/cf11202114c9447483667f6ca2e93dc0/us-west-2/89871584001/profile_1/chunklist.m3u8
@@ -341,6 +341,7 @@ plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TDCCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COMDY  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CHCHDT  
+plugin://plugin.video.lntv/play/1912/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CITYDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CBLTDT  
 plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhSPC%2FE2aW7OYpTdja%2Fmeta.smil%3Ffeed%3DCBC%2520Gem%2520Live%2520Linear%2520-%2520PROD%26manifest%3Dm3u%26format%3Dsmil%26mbr%3Dtrue&image=https%3A%2F%2Fthumbnails.cbc.ca%2Fmaven_legacy%2Fthumbnails%2FCBC_OTT_VMS%2FLive_Channel_Static_Images%2FToronto_2880x1620.jpg&labels=studio%3DCanadian%2BBroadcasting%2BCorporation%26country%3DCanada%26title%3DCBLT%2BToronto%26plot%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BToronto%26plotoutline%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BToronto%26mediatype%3Dvideo
@@ -411,7 +412,8 @@ plugin://plugin.video.lntv/play/1971/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SNEWSHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNBH    
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTTHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTTHD  
+plugin://plugin.video.lntv/play/2103/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",LIFECHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DOCUCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CICADT  
