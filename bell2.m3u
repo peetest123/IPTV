@@ -170,7 +170,9 @@ plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
 plugin://plugin.video.lntv/play/1913/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
+plugin://plugin.video.lntv/play/1933/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN  
+plugin://plugin.video.lntv/play/1917/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES  
@@ -183,12 +185,13 @@ plugin://plugin.video.lntv/play/1908/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSNET  
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+plugin://plugin.video.lntv/play/1973/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCC    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HLN  
 plugin://plugin.video.lntv/play/1927/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNB      
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNC        
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNC     
+plugin://plugin.video.lntv/play/1919/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MSNBCCI      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BBCWDNA      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTVCAN      
@@ -210,15 +213,18 @@ plugin://plugin.video.lntv/play/1918/play.pvr
 plugin://plugin.video.lntv/play/1904/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EWTNC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DYSTRC  
+plugin://plugin.video.lntv/play/2096/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SALTHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CORCOSD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DEJA  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",GSN  
+plugin://plugin.video.lntv/play/1923/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVC    
 plugin://plugin.video.lntv/play/1925/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICE      
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICE     
+plugin://plugin.video.lntv/play/1931/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNS    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",274    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TANDE    
@@ -227,7 +233,8 @@ plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONE    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C  
 plugin://plugin.video.lntv/play/1926/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC  
+plugin://plugin.video.lntv/play/2104/play.pvr
 #EXTINF:-1 tvg-id="I286.15098.zap2it.com" tvg-name="TDCC" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15098/s15098_ll_h15_ab.png"  group-title="Science",The Discovery Channel  
 plugin://plugin.video.lntv/play/1916/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HISTC  
@@ -334,6 +341,7 @@ plugin://plugin.video.lntv/play/1930/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CMTHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MUCHHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WHD  
+plugin://plugin.video.lntv/play/2094/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVCH  
 plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNCHD  
@@ -369,7 +377,8 @@ plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAKEFL    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",VISIHD    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNH    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNH   
+plugin://plugin.video.lntv/play/2097/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FXCHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FXXC      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DTOURHD  
@@ -403,7 +412,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 plugin://plugin.video.lntv/play/1971/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TFCHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WLDBHD        
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISCAHD            
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISCAHD      
+plugin://plugin.video.lntv/play/2106/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BOOMH  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SPARKHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",APCHD      
@@ -417,6 +427,7 @@ plugin://plugin.video.lntv/play/2103/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",LIFECHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DOCUCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CICADT  
+plugin://plugin.video.lntv/play/2108/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTVCHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFEH    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COOKCHD      
