@@ -117,7 +117,8 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MLBNC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNE  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNO  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNW  
+#EXTINF:-1 tvg-id="I113.18800.zap2it.com" tvg-name="SNW" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18800/s18800_ll_h15_aa.png" group-title="Sports",Sports Net World 
+plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNP  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1  
@@ -522,6 +523,7 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNEHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNOHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNWHD  
+plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360H  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1HD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",619  
