@@ -398,7 +398,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TOONAVN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TREECHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",YTVHD      
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRTN    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRTN  
+plugin://plugin.video.lntv/play/1971/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TFCHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WLDBHD        
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISCAHD            
