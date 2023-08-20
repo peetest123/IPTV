@@ -185,6 +185,7 @@ plugin://plugin.video.lntv/play/2093/play.pvr
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCC    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HLN  
+plugin://plugin.video.lntv/play/1927/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNB      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNC        
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MSNBCCI      
@@ -222,7 +223,8 @@ plugin://plugin.video.lntv/play/1925/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",JTV    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COOKC    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONE    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C  
+plugin://plugin.video.lntv/play/1926/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC    
 #EXTINF:-1 tvg-id="I286.15098.zap2it.com" tvg-name="TDCC" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15098/s15098_ll_h15_ab.png"  group-title="Science",The Discovery Channel  
 plugin://plugin.video.lntv/play/1916/play.pvr
@@ -249,12 +251,32 @@ plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HBO1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live-crave.video.9c9media.com/f/crave/hbo1/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="Movies",CRV1  
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 https://live-crave.video.9c9media.com/f/crave/crave1/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV2    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV3    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV4    
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV3   
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV4   
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",STZ1S    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",STZ2S    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HS70    
@@ -415,7 +437,8 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WATER    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONEHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OUTTVHD    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2CHD    
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2CHD  
+plugin://plugin.video.lntv/play/1926/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTV2CHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",RFDCAN    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",EPGLOOR    
