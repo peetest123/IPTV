@@ -206,6 +206,7 @@ plugin://plugin.video.lntv/play/1918/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FJR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WLDBTV  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPARK  
+plugin://plugin.video.lntv/play/1904/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EWTNC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DYSTRC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SALTHD  
