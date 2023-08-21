@@ -62,10 +62,10 @@ plugin://plugin.video.lntv/play/1936/play.pvr
 #EXTINF:-1 tvg-id="I808.61998.zap2it.com" tvg-name="APTN" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png?w=55" group-title="",APTNE  
 #EXTINF:-1 tvg-id="I1566.94289.zap2it.com" tvg-name="CP24" tvg-logo="" group-title="",CP24  
 plugin://plugin.video.lntv/play/1914/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="",JTV  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png?w=55" group-title="",OMNI  
+#EXTINF:-1 tvg-id="I25.16604.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16604/s16604_ll_h15_ab.png?w=55" group-title="",JTV  
+#EXTINF:-1 tvg-id="I28.105354.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105354/s105354_ll_h15_ab.png?w=55" group-title="",OMNI  
 https://debate-elections-2019.akamaized.net/cf11202114c9447483667f6ca2e93dc0/us-west-2/89871584001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png?w=55" group-title="",CBUT  
+#EXTINF:-1 tvg-id="I29.10100.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10100/s10084_ll_h15_ab.png?w=55" group-title="",CBUT  
 plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhSPC%2Fd7da5C_pCQPY%2Fmeta.smil%3Ffeed%3DCBC%2520Gem%2520Live%2520Linear%2520-%2520PROD%26manifest%3Dm3u%26format%3Dsmil%26mbr%3Dtrue&image=https%3A%2F%2Fthumbnails.cbc.ca%2Fmaven_legacy%2Fthumbnails%2FCBC_OTT_VMS%2FLive_Channel_Static_Images%2FStJohns_2880x1620.jpg&labels=studio%3DCanadian%2BBroadcasting%2BCorporation%26country%3DCanada%26title%3DCBNT%2BSt.%2BJohn%2527s%26plot%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BSt.%2BJohn%2527s%26plotoutline%3DThe%2Blive%2BTV%2Bchannel%2Band%2Blocal%2Bprogramming%2Bfrom%2BSt.%2BJohn%2527s%26mediatype%3Dvideo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17594/s10108_ll_h15_ab.png?w=55" group-title="",CIVT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10050/s10050_ll_h15_ac.png?w=55" group-title="",CHAN  
