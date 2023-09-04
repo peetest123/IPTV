@@ -33,7 +33,7 @@ https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
 #EXTINF:-1 tvg-id="I8.11684.zap2it.com" tvg-name="WNED" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",PBS Buffalo  
 plugin://slyguy.pbs.live/?_=play&amp;_play=1&amp;callsign=WNED&amp;_is_live=1&amp;_noresume=.pvr
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
+#EXTINF:-1 tvg-id="I9.112743.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
 https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
 StartAndroidActivity(&quot;com.quickplay.android.bellmediaplayer&quot;)
