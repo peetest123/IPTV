@@ -72,10 +72,10 @@ plugin://plugin.video.cbc/smil?url=https%3A%2F%2Flink.theplatform.com%2Fs%2FExhS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10136/s10125_ll_h15_ab.png?w=55"group-title="",CKVU  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17344/s17344_ll_h15_ab.png?w=55"group-title="",CIIT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27503/s27503_ll_h15_aa.png?w=55"group-title="",CHNU  
-#EXTINF:-1 tvg-id="" tvg-name="komo" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10626/s10003_ll_h15_ac.png?w=55"group-title="news",KOMO  
+#EXTINF:-1 tvg-id="I36.10626.zap2it.com" tvg-name="komo" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10626/s10003_ll_h15_ac.png?w=55"group-title="news",KOMO  
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/88515/s10098_ll_h15_ac.png?w=55"group-title="",KIRO7SD  
-#EXTINF:-1 tvg-id="" tvg-name="kcpq" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10387/s10212_ll_h15_ab.png?w=55"group-title="",KCPQ  
+#EXTINF:-1 tvg-id="I37.88515.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/88515/s10098_ll_h15_ac.png?w=55"group-title="",KIRO7SD  
+#EXTINF:-1 tvg-id="I38.10387.zap2it.com" tvg-name="kcpq" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10387/s10212_ll_h15_ab.png?w=55"group-title="",KCPQ  
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS  
@@ -86,7 +86,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VISION  
+#EXTINF:-1 tvg-id="I64.11220.zap2it.com" tvg-name="Vision" tvg-logo=""group-title="",VISION  TV
 
 #EXTINF:-1 tvg-id="I65.62670.zap2it.com" tvg-name="AMITV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62670/s62670_ll_h15_ab.png" group-title="Accesibility",AMI TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -115,13 +115,13 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN4  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TSN5  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MLBNC  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNE  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNO  
+#EXTINF:-1 tvg-id="" tvg-name="I110.18798.zap2it.com" tvg-logo="" group-title="",SNE  
+#EXTINF:-1 tvg-id="" tvg-name="I112.18799.zap2it.com" tvg-logo="" group-title="",SNO  
 #EXTINF:-1 tvg-id="I113.18800.zap2it.com" tvg-name="SNW" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18800/s18800_ll_h15_aa.png" group-title="Sports",Sports Net World 
 plugin://plugin.video.lntv/play/1324/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNP  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1  
+#EXTINF:-1 tvg-id="I114.18801.zap2it.com" tvg-name="" tvg-logo="" group-title="",SNP  
+#EXTINF:-1 tvg-id="I115.20203.zap2it.com" tvg-name="" tvg-logo="" group-title="",SN360  
+#EXTINF:-1 tvg-id="I116.68858.zap2it.com" tvg-name="" tvg-logo="" group-title="",SN1  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLNETC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",GOLFBO  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",OLN  
@@ -132,10 +132,10 @@ plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WWE  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",FIGHTSD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",WILDTV  
-#EXTINF:-1 tvg-id="" tvg-name="CBSCCAN" tvg-logo="" group-title="sports",CBS Sports Network 
+#EXTINF:-1 tvg-id="I141.71563.zap2it.com" tvg-name="CBSCCAN" tvg-logo="" group-title="sports",CBS Sports Network 
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D05b8976f35c90b1746783ad50413fcc9&amp;content=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPMN  
-#EXTINF:-1 tvg-id="" tvg-name="GMPLSC" tvg-logo=""group-title="",Game Tv  
+#EXTINF:-1 tvg-id="I214.48727.zap2it.com" tvg-name="GMPLSC" tvg-logo=""group-title="",Game Tv  
 plugin://plugin.video.lntv/play/1921/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NHLC1  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCNHL2  
@@ -167,13 +167,13 @@ plugin://plugin.video.lntv/play/1921/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARTSC  
+#EXTINF:-1 tvg-id="I202.10036.zap2it.com" tvg-name="" tvg-logo="" group-title="",ARTSC  
 plugin://plugin.video.lntv/play/2092/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DRAMAS  
+#EXTINF:-1 tvg-id="I203.15176.zap2it.com" tvg-name="" tvg-logo="" group-title="",DRAMAS  
 plugin://plugin.video.lntv/play/1909/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2022/03/turner-classic-movies-tcm-vector-logo-2022.png" group-title="movies",TCMC  
+#EXTINF:-1 tvg-id="I204.48815.zap2it.com" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2022/03/turner-classic-movies-tcm-vector-logo-2022.png" group-title="movies",TCMC  
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="amc" tvg-logo="https://www.freepnglogos.com/images/amc-png-logo-images-4601.html" group-title="movies",AMCCAN  
+#EXTINF:-1 tvg-id="I205.52247.zap2it.com tvg-name="amc" tvg-logo="https://www.freepnglogos.com/images/amc-png-logo-images-4601.html" group-title="movies",AMCCAN  
 plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
 plugin://plugin.video.lntv/play/1913/play.pvr
