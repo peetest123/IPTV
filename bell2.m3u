@@ -38,7 +38,7 @@ https://www.nbcboston.com/live/
 #EXTINF:-1 tvg-id="I10.11456.zap2it.com"" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
 StartAndroidActivity(&quot;com.quickplay.android.bellmediaplayer&quot;)
 #EXTINF:-1 tvg-id="I12.14926.zap2it.com" tvg-name="I11.70809.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT  
-#EXTINF:-1 tvg-id="I13.10094.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
+#EXTINF:-1 tvg-id="I404.72728.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8  
 #EXTINF:-1 tvg-id="I14.10170.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS  
 #EXTINF:-1 tvg-id="I15.10170.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png?w=55"group-title="",CWEA 
