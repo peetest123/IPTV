@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="I1.96458.zap2it.com" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
-udp://192.168.0.104:8080
+rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I3.17400.zap2it.com" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="Entertainment",CBNT  
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="I4.17396.zap2it.com" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="Entertainment",CIHF  
@@ -32,13 +32,13 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 https://live-nscreen.lcdn.iptv.bell.ca/sdash/LIVE$CBSHD(NL_SJ)/index.mpd
 
 #EXTINF:-1 tvg-id="I8.11684.zap2it.com" tvg-name="WNED" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png?w=55" group-title="",PBS Buffalo  
-udp://192.168.0.104:8080
+rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I9.112743.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png?w=55" group-title="",WBTSSD
-udp://192.168.0.104:8080
+rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I10.11456.zap2it.com"" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png?w=55" group-title="",WFXT  
-udp://192.168.0.104:8080
+rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I12.14926.zap2it.com" tvg-name="I11.70809.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/70809/s10003_ll_h15_ac.png?w=55" group-title="",WCVBSAT  
-udp://192.168.0.104:8080
+rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I404.72728.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png?w=55" group-title="",CJON  
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8  
 #EXTINF:-1 tvg-id="I14.10170.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png?w=55" group-title="NEWS",CBNEWS  
