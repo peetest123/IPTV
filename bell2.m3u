@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="I1.96458.zap2it.com" tvg-name=“FiBETV1” tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png?w=55" group-title="",FIBETV1  
-rtp://239.0.0.2:5001
+vlc rtp://239.0.0.2:5001
 #EXTINF:-1 tvg-id="I3.17400.zap2it.com" tvg-name=“CBNT” tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17400/s10084_ll_h15_ab.png?w=55" group-title="Entertainment",CBNT  
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="I4.17396.zap2it.com" tvg-name="CIHF" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png?w=55" group-title="Entertainment",CIHF  
