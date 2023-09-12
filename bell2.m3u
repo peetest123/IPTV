@@ -178,28 +178,28 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="I208.17595.zap2it.com" tvg-name="" tvg-logo="" group-title="",CMDY  
 plugin://plugin.video.lntv/play/1913/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
+#EXTINF:-1 tvg-id="I209.17609.zap2it.com" tvg-name="" tvg-logo=""group-title="",SCIFIS  
 plugin://plugin.video.lntv/play/1933/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECAN  
+#EXTINF:-1 tvg-id="I212.20675.zap2it.com" tvg-name="" tvg-logo=""group-title="",ECAN  
 plugin://plugin.video.lntv/play/1917/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CMT  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LIFES  
+#EXTINF:-1 tvg-id="I217.18808.zap2it.com" tvg-name="" tvg-logo=""group-title="",LIFES  
 plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MUCH  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",BETC 
+#EXTINF:-1 tvg-id="I221.45733.zap2it.com" tvg-name="" tvg-logo=""group-title="",BETC 
 plugin://plugin.video.lntv/play/1908/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MTV2CN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TNF  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CBNEWS  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CNN  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSNET  
+#EXTINF:-1 tvg-id="I235.17615.zap2it.com" tvg-name="" tvg-logo="" group-title="",NEWSNET  
 plugin://plugin.video.lntv/play/1973/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CNBCC    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HLN  
+#EXTINF:-1 tvg-id="I237.10145.zap2it.com" tvg-name="" tvg-logo=""  group-title="",HLN  
 plugin://plugin.video.lntv/play/1927/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNB      
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FNC     
+#EXTINF:-1 tvg-id="I241.16374.zap2it.com" tvg-name="" tvg-logo=""  group-title="",FNC     
 plugin://plugin.video.lntv/play/1919/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MSNBCCI      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BBCWDNA      
