@@ -250,7 +250,7 @@ plugin://plugin.video.lntv/play/1916/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TLCCAN  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",NATGC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCI  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",AHCC  
+#EXTINF:-1 tvg-id="I352.26768.zap2it.com" tvg-name="lifec" tvg-logo=""group-title="",AHCC  
 plugin://plugin.video.lntv/play/1905/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",IDC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
@@ -269,31 +269,31 @@ plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HBO1
+#EXTINF:-1 tvg-id="I361.61557.zap2it.com" tvg-name="HBO1" tvg-logo=""  group-title="",HBO1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 https://live-crave.video.9c9media.com/f/crave/hbo1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="Movies",CRV1  
+#EXTINF:-1 tvg-id="I362.10191.zap2it.com" tvg-name="CRV1" tvg-logo=""  group-title="Movies",CRV1  
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6InN0ZXBoYmFydG9uOTk5QGdtYWlsLmNvbSIsImJyYW5kX3BvbGljaWVzIjpbImNhc3Rpbmc6YWlycGxheSIsImNhc3Rpbmc6Y2hyb21lY2FzdCIsImRldmljZTo1Iiwib2ZmbGluZV9kb3dubG9hZCIsInBsYXRmb3JtOmFuZHJvaWQiLCJwbGF0Zm9ybTphbmRyb2lkX3R2IiwicGxhdGZvcm06ZmlyZV90diIsInBsYXRmb3JtOmlvcyIsInBsYXRmb3JtOmxnX3R2IiwicGxhdGZvcm06cHM1IiwicGxhdGZvcm06cm9rdSIsInBsYXRmb3JtOnNhbXN1bmdfdHYiLCJwbGF0Zm9ybTpzb255X3BzNCIsInBsYXRmb3JtOnN0YiIsInBsYXRmb3JtOnR2b3MiLCJwbGF0Zm9ybTp3ZWIiLCJwbGF0Zm9ybTp4MSIsInBsYXRmb3JtOnhib3hfb25lIiwicGxheWJhY2tfcXVhbGl0eTo0ayIsInBsYXliYWNrX3F1YWxpdHk6aGQiLCJwbGF5YmFja19xdWFsaXR5OnNkIiwic3RyZWFtX2NvbmN1cnJlbmN5OjQiLCJzdWJzY3JpcHRpb246Y3JhdmVfdG90YWwiLCJzdWJzY3JpcHRpb246Y3JhdmVwIiwic3Vic2NyaXB0aW9uOmNyYXZldHYiLCJzdWJzY3JpcHRpb246c2UiLCJzdWJzY3JpcHRpb246c3RhcnoiXSwiY3JlYXRpb25fZGF0ZSI6MTY5MjUzNjk1MzYwNywiYWlzX2lkIjoiYTYzNWRkZjM3ODYxNGU0YzE5N2EwZDcwZTIwZTk3NTVhODA4MmEzN2RkNDA3MzU3YTJhOTQ1ZmY3ZmExYmNjYSIsImF1dGhvcml0aWVzIjpbIlJFR1VMQVJfVVNFUiJdLCJjbGllbnRfaWQiOiJjcmF2ZS13ZWIiLCJicmFuZF9pZCI6IjFkNzJkOTkwY2I3NjVkZTdlNDIxMTExMSIsImFjY291bnRfaWQiOiI1ZGU4MjA1MDM1NjBlNTAwMDY3ZDg4NDIiLCJwcm9maWxlX2lkIjoiMDNjYzk4NGJkNTNkNDIxMjg2ZWVlMDAyZDM5MGYwOGEiLCJzY29wZSI6WyJhY2NvdW50OndyaXRlIiwiZGVmYXVsdCIsIm1hdHVyaXR5OmFkdWx0Iiwib2ZmbGluZV9kb3dubG9hZDoxMCIsInN1YnNjcmlwdGlvbjpjcmF2ZV90b3RhbCxjcmF2ZXAsY3JhdmV0dixzZSxzdGFyeiJdLCJleHAiOjE2OTI1NTEzNTMsImp0aSI6IjVzclY0ekhSdkVvalZGNkdMMGpBQmJjcW96dyIsImFjY291bnQiOnsic3RhdHVzIjoiVU5DT05GSVJNRUQifX0.DDQkaM3oZRahXmBeppmw4tfTpNUwWY82AQrVF9A_vHqd9-y4nQQutlb0i42lbZ5XMWVbOcIto6frGH5lcW_fgh2s0FbfH-v1Sv6IEeVshrPdTPEggKpOovCGK6mIdZCYJubjAPyI8s0uuI4lKut5a-9y95P8G3cBRpTy5cM3Wi198vR9Rsl4wF_UEhvm6gGHSt0UjK31ME_vrpqjU0TUV1lmHiJ1MlZOjYpTuYCP1WEo_mQL_SInRd1bkX7ypeGERpX_Ihg6avyhp5U-q83YlIR4H1oP6tL29NmE8GvsrL7KX2NxWMQMLcODIN6KORotXzWmGRJwGokpgcgJfl0YNQ
 https://live-crave.video.9c9media.com/f/crave/crave1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="CRV2" tvg-logo=""  group-title="",crave 2    
+#EXTINF:-1 tvg-id="I364.12223.zap2it.com" tvg-name="CRV2" tvg-logo=""  group-title="",crave 2    
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6InN0ZXBoYmFydG9uOTk5QGdtYWlsLmNvbSIsImJyYW5kX3BvbGljaWVzIjpbImNhc3Rpbmc6YWlycGxheSIsImNhc3Rpbmc6Y2hyb21lY2FzdCIsImRldmljZTo1Iiwib2ZmbGluZV9kb3dubG9hZCIsInBsYXRmb3JtOmFuZHJvaWQiLCJwbGF0Zm9ybTphbmRyb2lkX3R2IiwicGxhdGZvcm06ZmlyZV90diIsInBsYXRmb3JtOmlvcyIsInBsYXRmb3JtOmxnX3R2IiwicGxhdGZvcm06cHM1IiwicGxhdGZvcm06cm9rdSIsInBsYXRmb3JtOnNhbXN1bmdfdHYiLCJwbGF0Zm9ybTpzb255X3BzNCIsInBsYXRmb3JtOnN0YiIsInBsYXRmb3JtOnR2b3MiLCJwbGF0Zm9ybTp3ZWIiLCJwbGF0Zm9ybTp4MSIsInBsYXRmb3JtOnhib3hfb25lIiwicGxheWJhY2tfcXVhbGl0eTo0ayIsInBsYXliYWNrX3F1YWxpdHk6aGQiLCJwbGF5YmFja19xdWFsaXR5OnNkIiwic3RyZWFtX2NvbmN1cnJlbmN5OjQiLCJzdWJzY3JpcHRpb246Y3JhdmVfdG90YWwiLCJzdWJzY3JpcHRpb246Y3JhdmVwIiwic3Vic2NyaXB0aW9uOmNyYXZldHYiLCJzdWJzY3JpcHRpb246c2UiLCJzdWJzY3JpcHRpb246c3RhcnoiXSwiY3JlYXRpb25fZGF0ZSI6MTY5MjUzNjk1MzYwNywiYWlzX2lkIjoiYTYzNWRkZjM3ODYxNGU0YzE5N2EwZDcwZTIwZTk3NTVhODA4MmEzN2RkNDA3MzU3YTJhOTQ1ZmY3ZmExYmNjYSIsImF1dGhvcml0aWVzIjpbIlJFR1VMQVJfVVNFUiJdLCJjbGllbnRfaWQiOiJjcmF2ZS13ZWIiLCJicmFuZF9pZCI6IjFkNzJkOTkwY2I3NjVkZTdlNDIxMTExMSIsImFjY291bnRfaWQiOiI1ZGU4MjA1MDM1NjBlNTAwMDY3ZDg4NDIiLCJwcm9maWxlX2lkIjoiMDNjYzk4NGJkNTNkNDIxMjg2ZWVlMDAyZDM5MGYwOGEiLCJzY29wZSI6WyJhY2NvdW50OndyaXRlIiwiZGVmYXVsdCIsIm1hdHVyaXR5OmFkdWx0Iiwib2ZmbGluZV9kb3dubG9hZDoxMCIsInN1YnNjcmlwdGlvbjpjcmF2ZV90b3RhbCxjcmF2ZXAsY3JhdmV0dixzZSxzdGFyeiJdLCJleHAiOjE2OTI1NTEzNTMsImp0aSI6IjVzclY0ekhSdkVvalZGNkdMMGpBQmJjcW96dyIsImFjY291bnQiOnsic3RhdHVzIjoiVU5DT05GSVJNRUQifX0.DDQkaM3oZRahXmBeppmw4tfTpNUwWY82AQrVF9A_vHqd9-y4nQQutlb0i42lbZ5XMWVbOcIto6frGH5lcW_fgh2s0FbfH-v1Sv6IEeVshrPdTPEggKpOovCGK6mIdZCYJubjAPyI8s0uuI4lKut5a-9y95P8G3cBRpTy5cM3Wi198vR9Rsl4wF_UEhvm6gGHSt0UjK31ME_vrpqjU0TUV1lmHiJ1MlZOjYpTuYCP1WEo_mQL_SInRd1bkX7ypeGERpX_Ihg6avyhp5U-q83YlIR4H1oP6tL29NmE8GvsrL7KX2NxWMQMLcODIN6KORotXzWmGRJwGokpgcgJfl0YNQ
 https://live-crave.video.9c9media.com/f/crave/crave2/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV3   
+#EXTINF:-1 tvg-id="I364.12223.zap2it.com" tvg-name="CRV3" tvg-logo=""  group-title="",CRV3   
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6InN0ZXBoYmFydG9uOTk5QGdtYWlsLmNvbSIsImJyYW5kX3BvbGljaWVzIjpbImNhc3Rpbmc6YWlycGxheSIsImNhc3Rpbmc6Y2hyb21lY2FzdCIsImRldmljZTo1Iiwib2ZmbGluZV9kb3dubG9hZCIsInBsYXRmb3JtOmFuZHJvaWQiLCJwbGF0Zm9ybTphbmRyb2lkX3R2IiwicGxhdGZvcm06ZmlyZV90diIsInBsYXRmb3JtOmlvcyIsInBsYXRmb3JtOmxnX3R2IiwicGxhdGZvcm06cHM1IiwicGxhdGZvcm06cm9rdSIsInBsYXRmb3JtOnNhbXN1bmdfdHYiLCJwbGF0Zm9ybTpzb255X3BzNCIsInBsYXRmb3JtOnN0YiIsInBsYXRmb3JtOnR2b3MiLCJwbGF0Zm9ybTp3ZWIiLCJwbGF0Zm9ybTp4MSIsInBsYXRmb3JtOnhib3hfb25lIiwicGxheWJhY2tfcXVhbGl0eTo0ayIsInBsYXliYWNrX3F1YWxpdHk6aGQiLCJwbGF5YmFja19xdWFsaXR5OnNkIiwic3RyZWFtX2NvbmN1cnJlbmN5OjQiLCJzdWJzY3JpcHRpb246Y3JhdmVfdG90YWwiLCJzdWJzY3JpcHRpb246Y3JhdmVwIiwic3Vic2NyaXB0aW9uOmNyYXZldHYiLCJzdWJzY3JpcHRpb246c2UiLCJzdWJzY3JpcHRpb246c3RhcnoiXSwiY3JlYXRpb25fZGF0ZSI6MTY5MjUzNjk1MzYwNywiYWlzX2lkIjoiYTYzNWRkZjM3ODYxNGU0YzE5N2EwZDcwZTIwZTk3NTVhODA4MmEzN2RkNDA3MzU3YTJhOTQ1ZmY3ZmExYmNjYSIsImF1dGhvcml0aWVzIjpbIlJFR1VMQVJfVVNFUiJdLCJjbGllbnRfaWQiOiJjcmF2ZS13ZWIiLCJicmFuZF9pZCI6IjFkNzJkOTkwY2I3NjVkZTdlNDIxMTExMSIsImFjY291bnRfaWQiOiI1ZGU4MjA1MDM1NjBlNTAwMDY3ZDg4NDIiLCJwcm9maWxlX2lkIjoiMDNjYzk4NGJkNTNkNDIxMjg2ZWVlMDAyZDM5MGYwOGEiLCJzY29wZSI6WyJhY2NvdW50OndyaXRlIiwiZGVmYXVsdCIsIm1hdHVyaXR5OmFkdWx0Iiwib2ZmbGluZV9kb3dubG9hZDoxMCIsInN1YnNjcmlwdGlvbjpjcmF2ZV90b3RhbCxjcmF2ZXAsY3JhdmV0dixzZSxzdGFyeiJdLCJleHAiOjE2OTI1NTEzNTMsImp0aSI6IjVzclY0ekhSdkVvalZGNkdMMGpBQmJjcW96dyIsImFjY291bnQiOnsic3RhdHVzIjoiVU5DT05GSVJNRUQifX0.DDQkaM3oZRahXmBeppmw4tfTpNUwWY82AQrVF9A_vHqd9-y4nQQutlb0i42lbZ5XMWVbOcIto6frGH5lcW_fgh2s0FbfH-v1Sv6IEeVshrPdTPEggKpOovCGK6mIdZCYJubjAPyI8s0uuI4lKut5a-9y95P8G3cBRpTy5cM3Wi198vR9Rsl4wF_UEhvm6gGHSt0UjK31ME_vrpqjU0TUV1lmHiJ1MlZOjYpTuYCP1WEo_mQL_SInRd1bkX7ypeGERpX_Ihg6avyhp5U-q83YlIR4H1oP6tL29NmE8GvsrL7KX2NxWMQMLcODIN6KORotXzWmGRJwGokpgcgJfl0YNQ
 https://live-crave.video.9c9media.com/f/crave/crave3/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CRV4   
+#EXTINF:-1 tvg-id="I365.21351.zap2it.com" tvg-name="CRV4" tvg-logo=""  group-title="",CRV4   
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -692,24 +692,24 @@ https://www.youtube.com/live/z27otX5ba3o?feature=share
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRNHD2  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ECRANCH  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ECRANDH  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TCHLDHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",VCHLDHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FRCD2HD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCHLDHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TVSVHD  
-#EXTINF:-1 tvg-id="" tvg-name="dragon tv" tvg-logo=""group-title="",DRAGN  
+#EXTINF:-1 tvg-id="I988.101209.zap2it.com" tvg-name="" tvg-logo=""group-title="",YOUTB  
+#EXTINF:-1 tvg-id="I994.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I999.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I1000.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I2012.115829.zap2it.com" tvg-name="" tvg-logo="" group-title="",TCHLDHD  
+#EXTINF:-1 tvg-id="I2013.115831.zap2it.com" tvg-name="" tvg-logo=""group-title="",VCHLDHD  
+#EXTINF:-1 tvg-id="I2014.81006.zap2it.com" tvg-name="" tvg-logo=""group-title="",FRCD2HD  
+#EXTINF:-1 tvg-id="I2015.115829.zap2it.com" tvg-name="" tvg-logo=""group-title="",TCHLDHD  
+#EXTINF:-1 tvg-id="I2016.115748.zap2it.com" tvg-name="" tvg-logo=""group-title="",TVSVHD  
+#EXTINF:-1 tvg-id="I2018.44562.zap2it.com" tvg-name="dragon tv" tvg-logo=""group-title="",DRAGN  
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WOW1HD  
+#EXTINF:-1 tvg-id="I2027.68275.zap2it.com" tvg-name="" tvg-logo=""group-title="",WOW1HD  
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",GRTGBA  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",PNAX  
-#EXTINF:-1 tvg-id="" tvg-name="Ary News" tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="Pakistani",ARYN  
+#EXTINF:-1 tvg-id="I2028.44625.zap2it.com" tvg-name="" tvg-logo=""group-title="",GRTGBA  
+#EXTINF:-1 tvg-id="I2031.24935.zap2it.com" tvg-name="" tvg-logo=""group-title="",PNAX  
+#EXTINF:-1 tvg-id="I2234.109894.zap2it.com" tvg-name="Ary News" tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="Pakistani",ARYN  
 https://arynews.aryzap.com/f79732214152ae23863df6dd2360cc71/64dbb5c3/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/ARYNewsH264_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",HUMTV  
+#EXTINF:-1 tvg-id="I2236.66899.zap2it.com" tvg-name="" tvg-logo=""group-title="",HUMTV  
 #EXTINF:-1 tvg-id="I2237.90020.zap2it.com" tvg-name="Ary Digital" tvg-logo="" group-title="Pakistani",BARYD  
 https://arydigital.aryzap.com/73de333874ee2d0e9871ba7cdda70967/64dbb60b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8
 #EXTINF:-1 tvg-id="I2247.89731.zap2it.com" tvg-name="" tvg-logo=""group-title="",ATNZEEH  
