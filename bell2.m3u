@@ -713,24 +713,23 @@ https://arynews.aryzap.com/f79732214152ae23863df6dd2360cc71/64dbb5c3/v1/0183ea20
 #EXTINF:-1 tvg-id="I2237.90020.zap2it.com" tvg-name="Ary Digital" tvg-logo="" group-title="Pakistani",BARYD  
 https://arydigital.aryzap.com/73de333874ee2d0e9871ba7cdda70967/64dbb60b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8
 #EXTINF:-1 tvg-id="I2247.89731.zap2it.com" tvg-name="" tvg-logo=""group-title="",ATNZEEH  
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIzIDEwOjA0OjQ5IFBNJmhhc2hfdmFsdWU9RWpVcHluRFNXeGh6VHA1ZCtIOWxTZz09JnZhbGlkbWludXRlcz00MA==
+
 #EXTINF:-1 tvg-id="I2248.85862.zap2it.com"" tvg-name=" tvg-logo=""group-title="",ATNCLRS  
-http://tnaem.livenettv.sx:5432/pose/colorsbangla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDQ6MDA6MDkgUE0maGFzaF92YWx1ZT0ySTk2Z2NEQ3NXSUwvb3FUNkxkRzdnPT0mdmFsaWRtaW51dGVzPTI=
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
 #EXTINF:-1 tvg-id="I2249.28755.zap2it.com" tvg-name="" tvg-logo="" group-title="",B4UCAN  
-http://183.89.246.119:8881/play/a08n/index.m3u8
+
 #EXTINF:-1 tvg-id="I2252.83299.zap2it.com" tvg-name="" tvg-logo=""group-title="",ZEETVHD  
-https://z5ak-cmaflive.zee5.com/out/v1/253b3f5a58f045879602e43350615739/Zee_TV_Canada_HD/index.m3u8?hdnts=st=1692118424~exp=1692121424~acl=/out/v1/253b3f5a58f045879602e43350615739/Zee_TV_Canada_HD/index.m3u8*~hmac=bf8258224c669be477e0649fa61e45ca505da24f6b8522b40de2ad124161eed8
+
 #EXTINF:-1 tvg-id="I2253.21773.zap2it.com" tvg-name="" tvg-logo=""group-title="",ZCIN  
 https://z5ak-cmaflive.zee5.com/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8?hdnts=st=1692055585~exp=1692058585~acl=/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8*~hmac=622d16d8d6d99d912e56fdb340c2133887dce9e75d3d73f7c36d6ca02a7fd569
 #EXTINF:-1 tvg-id="I2256.48512.zap2it.com" tvg-name="" tvg-logo=""group-title="",AAJTK  
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 #EXTINF:-1 tvg-id="I2257.79544.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png?w=55" group-title="",ATNMAX2  
-http://103.81.104.118/hls/stream19.m3u8
-#EXTINF:-1 tvg-id="I2315.30354.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png?w=55"group-title="",PUNJA  
+https://r3---sn-ab5l6nkd.c.2mdn.net/videoplayback/id/8d0ef91bdaa7c0eb/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3817121814/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/6AA1CB489142A5E7CFB1900B75ECC9732DF8CF27.043BA842E40C0AF9339B18BE0C6FACF08F4C510F/key/cms1/cms_redirect/yes/mh/JX/mip/159.2.150.246/mm/42/mn/sn-ab5l6nkd/ms/onc/mt/1694535426/mv/m/mvi/3/pl/21/file/file.mp4#EXTINF:-1 tvg-id="I2315.30354.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png?w=55"group-title="",PUNJA  
 #EXTINF:-1 tvg-id="I2325.64721.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png?w=55"group-title="",PTC  
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="I2353.100075.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100075/s100075_ll_h9_aa.png?w=55"group-title="Bangla",ZBNGL 
-https://z5ak-cmaflive.zee5.com/out/v1/f4c3fe0b7cc44d93b25b3c093132cb53/Zee-Bangla/index_4.m3u8?hdntl=exp=1692205952~acl=%2f*~data=hdntl~hmac=8ee057ba6d2fed817e406d8ed9be89fbcb300dd0dcc7200e0d39eaeaa9f44489
+#EXTINF:-1 tvg-id="I2353.100075.zap2it.com" tvg-name="zbangla" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100075/s100075_ll_h9_aa.png?w=55"group-title="Bangla",ZBNGL 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="I2354.44377.zap2it.com" tvg-name="NTV Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",NTV1  
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIzIDk6NTI6MTkgUE0maGFzaF92YWx1ZT1xVTY0MXB3OTR2RExlUFZXaTVlV1NBPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:-1 tvg-id="I2393.28756.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28756/s28756_ll_h15_aa.png?w=55"group-title="",JAYATV  
