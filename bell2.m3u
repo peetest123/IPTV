@@ -594,17 +594,17 @@ plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EXXXTSY  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",PENTCPM  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",HUSLRHD  
-#EXTINF:-1 tvg-id="" tvg-name="TVA" tvg-logo="" group-title="French",CIMT(TVA)
+#EXTINF:-1 tvg-id="I800.16393.zap2it.com" tvg-name="TVA" tvg-logo="" group-title="French",CIMT(TVA)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ICI TELE" tvg-logo="" group-title="French",CBUFT 
+#EXTINF:-1 tvg-id="I801.15982.zap2it.com" tvg-name="ICI TELE" tvg-logo="" group-title="French",CBUFT 
 https://dai.google.com/linear/hls/pa/event/4mVauNxrSQGld0MFJqfjMQ/stream/0b3775ce-b3b9-4d61-bafa-7ad02ca6eedd:MRN2/variant/1e21ada24df260741f6e9a11473ba64e/bandwidth/3226300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CBAFT  
-#EXTINF:-1 tvg-id="" tvg-name="RDI" tvg-logo="" group-title="French",RDI  
+#EXTINF:-1 tvg-id="I803.15209.zap2it.com" tvg-name="RDI" tvg-logo="" group-title="French",RDI  
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Noovo" tvg-logo="" group-title="French",CFTF  
+#EXTINF:-1 tvg-id="I804.17384.zap2it.com" tvg-name="Noovo" tvg-logo="" group-title="French",CFTF  
 https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVM  
+#EXTINF:-1 tvg-id="I805.11185.zap2it.com" tvg-name="" tvg-logo="" group-title="",TV5  
+#EXTINF:-1 tvg-id="I806.15987.zap2it.com" tvg-name="" tvg-logo="" group-title="",CIVM  
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",METEO  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV  
@@ -648,9 +648,9 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",RDIHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CFTFDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV5HD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CIVMDT
+#EXTINF:-1 tvg-id="I906.63040.zap2it.com" tvg-name="" tvg-logo="" group-title="",CIVMDT
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CPACFHD  
+#EXTINF:-1 tvg-id="I908.105038.zap2it.com" tvg-name="cpacfhd" tvg-logo="" group-title="",CPACFHD  
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNVTV  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UNISHD  
