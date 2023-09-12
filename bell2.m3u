@@ -424,7 +424,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 plugin://plugin.video.lntv/play/1971/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",TFCHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WLDBHD        
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISCAHD      
+#EXTINF:-1 tvg-id="I506.96507.zap2it.com" tvg-name="" tvg-logo=""  group-title="",DISCAHD      
 plugin://plugin.video.lntv/play/2106/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BOOMH  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SPARKHD    
@@ -432,13 +432,13 @@ plugin://plugin.video.lntv/play/2106/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",NICKCHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DISXDCH    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SNEWSHD      
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",BNNBH    
+#EXTINF:-1 tvg-id="I514.73963.zap2it.com" tvg-name="" tvg-logo=""  group-title="",BNNBH    
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTTHD  
+#EXTINF:-1 tvg-id="I515.68012.zap2it.com" tvg-name="" tvg-logo=""  group-title="",COTTHD  
 plugin://plugin.video.lntv/play/2103/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",LIFECHD      
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DOCUCHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CICADT  
+#EXTINF:-1 tvg-id="I518.70583.zap2it.com" tvg-name="" tvg-logo=""  group-title="",CICADT  
 plugin://plugin.video.lntv/play/2108/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTVCHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",LIFEH    
@@ -466,7 +466,7 @@ plugin://plugin.video.lntv/play/2108/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WATER    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONEHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OUTTVHD    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2CHD  
+#EXTINF:-1 tvg-id="I545.81208.zap2it.com" tvg-name="" tvg-logo=""  group-title="",H2CHD  
 plugin://plugin.video.lntv/play/1926/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MTV2CHD    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",RFDCAN    
@@ -497,7 +497,7 @@ plugin://plugin.video.lntv/play/1926/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",WGNDT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",TCMCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCFSHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCHHHD  
+#EXTINF:-1 tvg-id="I583.58890.zap2it.com" tvg-name="" tvg-logo=""group-title="",SCHHHD  
 plugin://plugin.video.lntv/play/2098/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCVTHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCGXHD  
@@ -523,7 +523,7 @@ plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SP4KB  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNEHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SNOHD  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SNWHD  
+#EXTINF:-1 tvg-id="I613.61742.zap2it.com" tvg-name="" tvg-logo="" group-title="",SNWHD  
 plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN360H  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SN1HD  
