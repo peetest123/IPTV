@@ -176,7 +176,7 @@ plugin://plugin.video.lntv/play/1909/play.pvr
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="I205.52247.zap2it.com tvg-name="amc" tvg-logo="https://www.freepnglogos.com/images/amc-png-logo-images-4601.html" group-title="movies",AMCCAN  
 plugin://plugin.video.lntv/play/1906/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CMDY  
+#EXTINF:-1 tvg-id="I208.17595.zap2it.com" tvg-name="" tvg-logo="" group-title="",CMDY  
 plugin://plugin.video.lntv/play/1913/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SCIFIS  
 plugin://plugin.video.lntv/play/1933/play.pvr
