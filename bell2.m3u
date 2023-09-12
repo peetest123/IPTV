@@ -221,18 +221,18 @@ plugin://plugin.video.lntv/play/1918/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",SPARK  
 plugin://plugin.video.lntv/play/1904/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EWTNC  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DYSTRC  
+#EXTINF:-1 tvg-id="I263.48742.zap2it.com" tvg-name="" tvg-logo=""  group-title="",DYSTRC  
 plugin://plugin.video.lntv/play/2096/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SALTHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",CORCOSD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",COTT  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",DEJA  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",GSN  
+#EXTINF:-1 tvg-id="I269.14909.zap2it.com" tvg-name="" tvg-logo=""  group-title="",GSN  
 plugin://plugin.video.lntv/play/1923/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODC  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",HGTVC    
+#EXTINF:-1 tvg-id="I271.17638.zap2it.com" tvg-name="" tvg-logo=""  group-title="",HGTVC    
 plugin://plugin.video.lntv/play/1925/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SLICE     
+#EXTINF:-1 tvg-id="I272.15181.zap2it.com" tvg-name="" tvg-logo=""  group-title="",SLICE     
 plugin://plugin.video.lntv/play/1931/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",MAGNS    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",274    
