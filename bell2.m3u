@@ -734,7 +734,8 @@ https://z5ak-cmaflive.zee5.com/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinem
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="I2257.79544.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png?w=55" group-title="",ATNMAX2  
-https://r3---sn-ab5l6nkd.c.2mdn.net/videoplayback/id/8d0ef91bdaa7c0eb/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3817121814/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/6AA1CB489142A5E7CFB1900B75ECC9732DF8CF27.043BA842E40C0AF9339B18BE0C6FACF08F4C510F/key/cms1/cms_redirect/yes/mh/JX/mip/159.2.150.246/mm/42/mn/sn-ab5l6nkd/ms/onc/mt/1694535426/mv/m/mvi/3/pl/21/file/file.mp4#EXTINF:-1 tvg-id="I2315.30354.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png?w=55"group-title="",PUNJA  
+https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=1694583911~acl=/*~data=159.2.150.246-WEB~hmac=5a346d06eaaceb00c55f801cb893faf37d775109cc61b0675e14545c19c36070
+#EXTINF:-1 tvg-id="I2315.30354.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png?w=55"group-title="",PUNJA  
 
 #EXTINF:-1 tvg-id="I2325.64721.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png?w=55"group-title="",PTC  
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
