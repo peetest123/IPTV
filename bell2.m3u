@@ -268,7 +268,7 @@ plugin://plugin.video.lntv/play/2102/play.pvr
 plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
+#EXTINF:-1 tvg-id="I360.52247.zap2it.com" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
 #EXTINF:-1 tvg-id="I361.61557.zap2it.com" tvg-name="HBO1" tvg-logo=""  group-title="",HBO1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
