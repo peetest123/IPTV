@@ -78,15 +78,15 @@ https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="I37.88515.zap2it.com" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/88515/s10098_ll_h15_ac.png?w=55"group-title="",KIRO7SD  
 #EXTINF:-1 tvg-id="I38.10387.zap2it.com" tvg-name="kcpq" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10387/s10212_ll_h15_ab.png?w=55"group-title="",KCPQ  
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KING  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",KCTS  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="politics",CPAC  
+#EXTINF:-1 tvg-id="I39.10518.zap2it.com" tvg-name="" tvg-logo=""group-title="",KING  
+#EXTINF:-1 tvg-id="I40.10392.zap2it.com" tvg-name="" tvg-logo=""group-title="",KCTS  
+#EXTINF:-1 tvg-id="I50.99429.zap2it.com" tvg-name="" tvg-logo=""group-title="",MAKEFLS  
+#EXTINF:-1 tvg-id="I51.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I53.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I53.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I53.27733.zap2it.com" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I53.27733.zap2it.com" tvg-name="" tvg-logo="" group-title="",EPGLOOR  
+#EXTINF:-1 tvg-id="I63.17608.zap2it.com" tvg-name="cpac" tvg-logo=""group-title="politics",CPAC  
 #EXTINF:-1 tvg-id="I64.11220.zap2it.com" tvg-name="Vision" tvg-logo=""group-title="",VISION  TV
 
 #EXTINF:-1 tvg-id="I65.62670.zap2it.com" tvg-name="AMITV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62670/s62670_ll_h15_ab.png" group-title="Accesibility",AMI TV
