@@ -358,7 +358,8 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ARTSCHD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",SHCSCHD  
 plugin://plugin.video.lntv/play/2098/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",AMCCHD  
+#EXTINF:-1 tvg-id="" tvg-name="AMCHD" tvg-logo=""  group-title="Movies",AMCCHD 
+plugin://plugin.video.lntv/play/1906/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",WPCHDT 
 plugin://plugin.video.lntv/play/1930/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",FOODCHD  
