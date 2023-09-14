@@ -185,7 +185,7 @@ plugin://plugin.video.lntv/play/1921/play.pvr
 plugin://plugin.video.lntv/play/2092/play.pvr
 #EXTINF:-1 tvg-id="I203.15176.zap2it.com" tvg-name="" tvg-logo="" group-title="",DRAMAS  
 plugin://plugin.video.lntv/play/1909/play.pvr
-#EXTINF:-1 tvg-id="I204.48815.zap2it.com" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2022/03/turner-classic-movies-tcm-vector-logo-2022.png" group-title="movies",TCMC  
+#EXTINF:-1 tvg-id="I204.48815.zap2it.com" tvg-name="tcm" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2022/03/turner-classic-movies-tcm-vector-logo-2022.png" group-title="Movies",TCMC  
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="I205.52247.zap2it.com tvg-name="amc" tvg-logo="" group-title="Movies",AMCCAN  
 plugin://plugin.video.lntv/play/1906/play.pvr
@@ -255,7 +255,7 @@ plugin://plugin.video.lntv/play/1931/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",ONE    
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",H2C  
 plugin://plugin.video.lntv/play/1926/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="",OWNC  
+#EXTINF:-1 tvg-id="" tvg-name="OWNC" tvg-logo=""  group-title="",OWNC  
 plugin://plugin.video.lntv/play/2104/play.pvr
 #EXTINF:-1 tvg-id="I286.15098.zap2it.com" tvg-name="TDCC" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15098/s15098_ll_h15_ab.png"  group-title="Science",The Discovery Channel  
 plugin://plugin.video.lntv/play/1916/play.pvr
@@ -268,12 +268,14 @@ plugin://plugin.video.lntv/play/1905/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",IDC  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",EPGLOOR  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BELLPV  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NFLX  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",YOUTB  
+#EXTINF:-1 tvg-id="" tvg-name="NFLX" tvg-logo="" group-title="Apps",NFLX  
+Netflix.com
+#EXTINF:-1 tvg-id="" tvg-name="Youtb" tvg-logo=""group-title="Apps",YOUTB  
+Youtube.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SSC  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MTIME  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",MTIME  
 plugin://plugin.video.lntv/play/1370/play.pvr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DOCUC  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",DOCUC  
 plugin://plugin.video.lntv/play/2102/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",CPISD  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",ADSM  
