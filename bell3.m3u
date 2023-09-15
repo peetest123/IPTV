@@ -19,6 +19,13 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png /
 "group-title="",CIHF
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc9/corus-globaltv.isml/.mpd
+
+
 #EXTINF:-1 tvg-name="ASN
 "tvg-id="I5.12892.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png /
