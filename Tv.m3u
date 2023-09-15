@@ -47,10 +47,10 @@ rtp://239.0.0.2:5001"
 #EXTINF:-1 tvg-name="WMED"
 "tvg-id="I8.11684.zap2it.com"
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png /"
-"group-title="",WMED"
-"
-rtp://239.0.0.2:5001"
-"
+"group-title="",WMED
+
+rtp://239.0.0.2:5001
+
 #EXTINF:-1 tvg-name="WBTSSD"
 "tvg-id="I9.112743.zap2it.com"
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png /"
