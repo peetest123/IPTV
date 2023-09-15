@@ -282,6 +282,7 @@ plugin://plugin.video.lntv/play/2102/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",LifeC
 plugin://plugin.video.lntv/play/2093/play.pvr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXC  
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-317.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="",FXXCSD    
 #EXTINF:-1 tvg-id="I360.52247.zap2it.com" tvg-name="" tvg-logo=""  group-title="",AMCCAN    
 #EXTINF:-1 tvg-id="I361.61557.zap2it.com" tvg-name="HBO1" tvg-logo=""  group-title="",HBO1
