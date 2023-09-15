@@ -26,24 +26,24 @@ https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc
 https://live-ctv.video.9c9media.com/f/ctv/asn/manifest.mpd
 
 #EXTINF:-1 tvg-name="CJCH"
-"tvg-id="I6.14863.zap2it.com"
+tvg-id="I6.14863.zap2it.com"
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png /"
-"group-title="",CJCH"
-"
+"group-title="",CJCH
+
 #KODIPROP:inputstream=inputstream.adaptive"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha"
 #KODIPROP:inputstream.adaptive.license_key=https://license.9c9media.ca/widevine?jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhbGl6YXRpb24iOiJlbi1DQSIsInVzZXJfbmFtZSI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjhAYmR1LmZha2UuZG9tYWluIiwiYnJhbmRfcG9saWNpZXMiOlsic3RyZWFtX2NvbmN1cnJlbmN5OjIiLCJzdWJzY3JpcHRpb246Y3R2Il0sImNyZWF0aW9uX2RhdGUiOjE2OTIyNzkyMDcwODYsImFpc19pZCI6ImQ4YmJmMjA3OTYzOWE5MzU3YzU0Yzg1NWM4NWM0ZDA0M2UzYzE4NWY5ZWI2NmYwZmRiYWM1ZWFhZWRmYzU4NjgiLCJiZHVfcHJvdmlkZXIiOiJCZWxsIEFsaWFudCBGaWJyZU9wIiwiYXV0aG9yaXRpZXMiOlsiQkRVX1VTRVIiXSwiY2xpZW50X2lkIjoiY3R2LXdlYiIsImJyYW5kX2lkIjoiMWQ3MmQ5OTBjYjc2NWRlN2U0MjExMTE0IiwiYWNjb3VudF9pZCI6IjYyNDUwYjA2MjI4NGMwMjRiZDc2NDZiOCIsInByb2ZpbGVfaWQiOiJkZTk4Y2EwZTdhMzI0NzdiYTE2YzYwNzJkZmNiNjk5NSIsInNjb3BlIjpbImRlZmF1bHQiLCJtYXN0ZXJfcHJvZmlsZSIsIm1hdHVyaXR5OmFkdWx0Iiwic3Vic2NyaXB0aW9uOmN0diJdLCJleHAiOjE2OTIyOTM2MDYsImp0aSI6Ik9TakZ3dDhpa2hfNlhLX1llQTIyalpUUlBVZyIsImFjY291bnQiOnsicG9zdGFsX2NvZGUiOiJBMUMiLCJzdGF0dXMiOiJBQ1RJVkUifX0.i39JmxTvjhO-tR5Z2jF2BK0i18IWGWFsAdiF0nA0qZwbyYsU8Sw757jyu0wT7Av-UQ8UYzljypvm4GEqcj9Dd3ols_g8AkSW2fvcd3Cb-jUDKTpoCJo4De87Q4gAWmLNpG0k8eYhoHqZQZLWBH2RfH524iv9dOAtqfLpwHKL8YR8ymZ01ssA-_Hz18p65uuvFFqF0D7EdxHJ28Rw9TiggvBsvD7Ki2uOmjahC3yYJPED25Tidc9YZLb2ldfs0fnS0HtsXCzckG-lclScezjhdvfjRBqTTEftLVt-dP17ZDI4d5qT3cHDYGKSRZuL03rMZpTiqQdM27UA4MYodNu9yg|Content-Type=application/octet-stream|R{SSM}|"
 https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd "
-"
-"
+
+
 #EXTINF:-1 tvg-name="WBZ"
 "tvg-id="I7.11325.zap2it.com"
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png /"
 "group-title="",WBZ"
-"
+
 rtp://239.0.0.2:5001"
-"
+
 #EXTINF:-1 tvg-name="WMED"
 "tvg-id="I8.11684.zap2it.com"
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png /"
