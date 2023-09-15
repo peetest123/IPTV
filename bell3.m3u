@@ -31,25 +31,36 @@ https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png /
 "group-title="",ASN
 
+
+
 #EXTINF:-1 tvg-name="CJCH
 "tvg-id="I6.14863.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14863/s10108_ll_h15_ab.png /
 "group-title="",CJCH
+
+rtp://239.0.0.2:5001
+
 
 #EXTINF:-1 tvg-name="WBZ
 "tvg-id="I7.11325.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png /
 "group-title="",WBZ
 
+rtp://239.0.0.2:5001
+
 #EXTINF:-1 tvg-name="WMED
 "tvg-id="I8.11684.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png /
 "group-title="",WMED
 
+rtp://239.0.0.2:5001
+
 #EXTINF:-1 tvg-name="WBTSSD
 "tvg-id="I9.112743.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png /
 "group-title="",WBTSSD
+
+rtp://239.0.0.2:5001
 
 #EXTINF:-1 tvg-name="WFXT
 "tvg-id="I10.11456.zap2it.com
