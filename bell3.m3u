@@ -11,10 +11,7 @@ rtp://239.0.0.2:5001
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 
 
-#EXTINF:-1 tvg-name="CIHF
-"tvg-id="I4.17396.zap2it.com
-"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png /
-"group-title="",CIHF
+#EXTINF:-1 tvg-name="CIHF"tvg-id="I4.17396.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17396/s17396_ll_h15_ab.png /"group-title="",CIHF
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -23,10 +20,10 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5
 https://live.corusdigitaldev.com/groupa/live/382d5187-0149-47e1-be61-70a399af2cc9/corus-globaltv.isml/.mpd
 
 
-#EXTINF:-1 tvg-name="ASN
-"tvg-id="I5.12892.zap2it.com
-"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png /
-"group-title="",ASN
+#EXTINF:-1 tvg-name="ASNp"
+"tvg-id="I5.12892.zap2it.com"
+tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12892/s10135_ll_h15_ab.png"
+group-title="",ASN
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
