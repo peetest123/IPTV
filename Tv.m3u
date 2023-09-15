@@ -35,11 +35,11 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="WBZ"
-"tvg-id="I7.11325.zap2it.com"
-"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png /"
-"group-title="",WBZ"
+ tvg-id="I7.11325.zap2it.com"
+tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png /"
+group-title="",WBZ
 
-rtp://239.0.0.2:5001"
+rtp://239.0.0.2:5001
 
 #EXTINF:-1 tvg-name="WMED"
 "tvg-id="I8.11684.zap2it.com"
