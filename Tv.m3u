@@ -688,11 +688,11 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1tvg-name="PNAX"tvg-id="I2031.24935.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24935/s24935_ll_h15_aa.png/"group-title="French",PNAX
 https://live-noovo.video.9c9media.com/f/noovo/noovob/manifest.mpd
 #EXTINF:-1tvg-name="ARYNW"tvg-id="I2234.109894.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/109894/s109894_ll_h15_aa.png/"group-title="",ARYNW
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
-#EXTINF:-1tvg-name="HUMTV"tvg-id="I2236.66899.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",HUMTV
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
-#EXTINF:-1tvg-name="BARYD"tvg-id="I2237.90020.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90020/s90020_ll_h15_aa.png/"group-title="",BARYD
 https://arynews.aryzap.com/41c3708b01f7a3770bd835b14458d4aa/6507642a/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
+#EXTINF:-1tvg-name="HUMTV"tvg-id="I2236.66899.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",HUMTV
+https://tv.aafunmaza.com/humhd/index.m3u8
+#EXTINF:-1tvg-name="BARYD"tvg-id="I2237.90020.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90020/s90020_ll_h15_aa.png/"group-title="",BARYD
+https://arydigital.aryzap.com/1e8cbe011f609ce84b8a48a4be696122/650767f0/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
 #EXTINF:-1tvg-name="SETHCHD"tvg-id="I2246.105172.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105172/s72468_ll_h15_ad.png/"group-title="",SETHCHD
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1tvg-name="ATNZEEH"tvg-id="I2247.89731.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89731/s89731_ll_h15_ab.png/"group-title="",ATNZEEH
