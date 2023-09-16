@@ -692,7 +692,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1tvg-name="HUMTV"tvg-id="I2236.66899.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",HUMTV
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
 #EXTINF:-1tvg-name="BARYD"tvg-id="I2237.90020.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90020/s90020_ll_h15_aa.png/"group-title="",BARYD
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+https://arynews.aryzap.com/41c3708b01f7a3770bd835b14458d4aa/6507642a/v1/0183ea205add0b8ed5941a38bc6f/0183ea20909b0b8ed5aa4d793456/main.m3u8
 #EXTINF:-1tvg-name="SETHCHD"tvg-id="I2246.105172.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105172/s72468_ll_h15_ad.png/"group-title="",SETHCHD
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1tvg-name="ATNZEEH"tvg-id="I2247.89731.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89731/s89731_ll_h15_ab.png/"group-title="",ATNZEEH
