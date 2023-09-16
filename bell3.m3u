@@ -58,11 +58,8 @@ rtp://239.0.0.2:5001
 
 #EXTINF:-1 tvg-name="CWEA"tvg-id="I15.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png /"group-title="",CWEA
 
-#EXTINF:-1 tvg-name="TSC
-"tvg-id="I16.15997.zap2it.com
-"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png /
-"group-title="",TSC
-
+#EXTINF:-1 tvg-name="TSC"tvg-id="I16.15997.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png /"group-title="",TSC
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1 tvg-name="CICA
 "tvg-id="I18.10119.zap2it.com
 "tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png /
