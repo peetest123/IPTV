@@ -67,6 +67,7 @@ https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="CKCKDT"tvg-id="I86.72844.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72844/s10108_ll_h15_ab.png/"group-title="",CKCKDT
 #EXTINF:-1tvg-name="CFCNDT"tvg-id="I87.62890.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62890/s62890_ll_h15_aa.png/"group-title="",CFCNDT
 #EXTINF:-1tvg-name="TSN1"tvg-id="I100.11182.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11182/s11182_ll_h15_aa.png/"group-title="",TSN1
+plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1tvg-name="TSN2"tvg-id="I102.18990.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18990/s18990_ll_h15_ab.png/"group-title="",TSN2
 #EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png/"group-title="",TSN3
 #EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png/"group-title="",TSN4
@@ -409,7 +410,8 @@ https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="HS00"tvg-id="I596.73578.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73578/s73578_ll_h15_aa.png/"group-title="",HS00
 #EXTINF:-1tvg-name="BELL4KB"tvg-id="I598.98222.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",BELL4KB
 #EXTINF:-1tvg-name="BSPMO4K"tvg-id="I599.97961.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/97961/s97961_ll_h15_aa.png/"group-title="",BSPMO4K
-#EXTINF:-1tvg-name="TSNHD"tvg-id="I600.34313.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png/"group-title="",TSNHD
+#EXTINF:-1tvg-name="TSNHD"tvg-id="I600.34313.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png/"group-title="Sports",TSNHD
+plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1tvg-name="2TSNK"tvg-id="I601.100573.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100573/s100573_ll_h15_aa.png/"group-title="",2TSNK
 #EXTINF:-1tvg-name="TSN2HD"tvg-id="I602.61474.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61474/s61474_ll_h15_aa.png/"group-title="",TSN2HD
 #EXTINF:-1tvg-name="TSN3HD"tvg-id="I603.90119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png/"group-title="",TSN3HD
@@ -674,7 +676,7 @@ plugin://plugin.video.lntv/play/1926/play.pvr
 #EXTINF:-1tvg-name="TCHLDHD"tvg-id="I2015.115829.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115829/s18002_ll_h15_ac.png/"group-title="",TCHLDHD
 plugin://plugin.video.lntv/play/2098/play.pvr
 #EXTINF:-1tvg-name="TVSVHD"tvg-id="I2016.115748.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115748/s115748_ll_h9_aa.png/"group-title="sports",TVSVHD
-plugin://plugin.video.lntv/play/286/play.pvr
+
 #EXTINF:-1tvg-name="DRAGN"tvg-id="I2018.44562.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44562/s44562_ll_h15_aa.png/"group-title="",DRAGN
 plugin://plugin.video.lntv/play/1324/play.pvr
 #EXTINF:-1tvg-name="LSTMSHD"tvg-id="I2023.106083.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/106083/s106083_ll_h15_aa.png/"group-title="French",LSTMSHD
