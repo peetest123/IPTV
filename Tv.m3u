@@ -704,9 +704,9 @@ https://arydigital.aryzap.com/73de333874ee2d0e9871ba7cdda70967/64dbb60b/v1/0183e
 #EXTINF:-1tvg-name="SETMXC"tvg-id="I2250.72296.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72296/s72296_ll_h15_ab.png/"group-title="",SETMXC
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
 #EXTINF:-1tvg-name="ZEETVHD"tvg-id="I2252.83299.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83299/s83299_ll_h15_ac.png/"group-title="",ZEETVHD
-https://z5ak-cmaflive.zee5.com/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8?hdnts=st=1692055585~exp=1692058585~acl=/out/v1/ab12c518165e4f8c843f951dbe3b92df/Zee_Cinema_USA/index.m3u8*~hmac=622d16d8d6d99d912e56fdb340c2133887dce9e75d3d73f7c36d6ca02a7fd569
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1tvg-name="ZCIN"tvg-id="I2253.21773.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21773/s21773_ll_h15_ab.png/"group-title="",ZCIN
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1tvg-name="AAJTK"tvg-id="I2256.48512.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48512/s48512_ll_h9_ab.png/"group-title="",AAJTK
 https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=1694583911~acl=/*~data=159.2.150.246-WEB~hmac=5a346d06eaaceb00c55f801cb893faf37d775109cc61b0675e14545c19c36070
 #EXTINF:-1tvg-name="ATNMAX2"tvg-id="I2257.79544.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png/"group-title="",ATNMAX2
