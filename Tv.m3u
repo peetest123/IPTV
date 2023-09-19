@@ -698,7 +698,7 @@ https://cdn-tv.co.in/sonyliv/index.php?id=1000009255
 #EXTINF:-1tvg-name="ATNZEEH"tvg-id="I2247.89731.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89731/s89731_ll_h15_ab.png/"group-title="",ATNZEEH
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1tvg-name="ATNCLRS"tvg-id="I2248.85862.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/85862/s85862_ll_h15_ab.png/"group-title="Pakistani",ATNCLRS
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
 #EXTINF:-1tvg-name="B4UCAN"tvg-id="I2249.28755.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28755/s28755_ll_h9_aa.png/"group-title="Pakistani",B4UCAN
 https://myzee5.xyz/toffee/playlist.php?https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/b4u_movies_576/b4u_movies_576.m3u8?bitrate=1000000&channel=b4u_movies_576&gp_id=
 #EXTINF:-1tvg-name="SETMXC"tvg-id="I2250.72296.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72296/s72296_ll_h15_ab.png/"group-title="",SETMXC
@@ -710,7 +710,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_20
 #EXTINF:-1tvg-name="AAJTK"tvg-id="I2256.48512.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48512/s48512_ll_h9_ab.png/"group-title="",AAJTK
 https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=1694583911~acl=/*~data=159.2.150.246-WEB~hmac=5a346d06eaaceb00c55f801cb893faf37d775109cc61b0675e14545c19c36070
 #EXTINF:-1tvg-name="ATNMAX2"tvg-id="I2257.79544.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png/"group-title="",ATNMAX2
-https://cdn-tv.co.in/sonyliv/index.php?id=1000044878
+https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c5bf9a3550af5398efdfd7383163807bd4f402df589910b729d7e25af8b5a0e82a243566d2bc57476d3ec3adb57a05569dd37dbe6f9d6b10a34a032950665925fca4cb7285bae81f7356d2feb25d8a38b5b74d495f2eeffc2161f43e7f120951257ce2e4768f20104b1570c35eb9d3ff8331288342c3151cef50e996eac3f16f18fbd14ad723321f667c0478d6e42c6cedba4920d6413295ef9b24454d8c5b5d208cffd9db5536d5c4125c92eff815450a5137ecc693e34cec98e54d5e7bb854ce6f5df071e443ee3af97068faef8d51e466670601b6ba8f46c7cc796532d65cd3799821585ec0cbd532dd8e64ddb2159f3b1dd7c3417e1dbbf777ef6fa3d6cb835484fd735db5ace9615f3e4d44bde945c85fbb83325af0999d2b4c39da52d52a3a8ece920fcbc130dc71fd08490baeabacc84d0c2f478c710e24875e9e0205ac26701c5b807805f5d2b0479880e56f9b&token=
 #EXTINF:-1tvg-name="PUNJA"tvg-id="I2315.30354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png/"group-title="Bangla",PUNJA
 https://www.yupptv.com/channels/alpha-etc-punjabi/live
 #EXTINF:-1btvg-name="PTC" tvg-id="I2325.64721.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png/"group-title="Punjabi",PTC
