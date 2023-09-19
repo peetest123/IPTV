@@ -702,7 +702,7 @@ https://arynews.aryzap.com/f79732214152ae23863df6dd2360cc71/64dbb5c3/v1/0183ea20
 #EXTINF:-1tvg-name="B4UCAN"tvg-id="I2249.28755.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28755/s28755_ll_h9_aa.png/"group-title="Pakistani",B4UCAN
 https://arydigital.aryzap.com/73de333874ee2d0e9871ba7cdda70967/64dbb60b/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8
 #EXTINF:-1tvg-name="SETMXC"tvg-id="I2250.72296.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72296/s72296_ll_h15_ab.png/"group-title="",SETMXC
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/Colors_Bangla_HD_voot_MOB-audio_98835_ben=98800-video=3110800.m3u8
+https://cdn-tv.co.in/sonyliv/index.php?id=1000009249
 #EXTINF:-1tvg-name="ZEETVHD"tvg-id="I2252.83299.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83299/s83299_ll_h15_ac.png/"group-title="",ZEETVHD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1tvg-name="ZCIN"tvg-id="I2253.21773.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21773/s21773_ll_h15_ab.png/"group-title="",ZCIN
@@ -710,7 +710,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_20
 #EXTINF:-1tvg-name="AAJTK"tvg-id="I2256.48512.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48512/s48512_ll_h9_ab.png/"group-title="",AAJTK
 https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=1694583911~acl=/*~data=159.2.150.246-WEB~hmac=5a346d06eaaceb00c55f801cb893faf37d775109cc61b0675e14545c19c36070
 #EXTINF:-1tvg-name="ATNMAX2"tvg-id="I2257.79544.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png/"group-title="",ATNMAX2
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+https://cdn-tv.co.in/sonyliv/index.php?id=1000044878
 #EXTINF:-1tvg-name="PUNJA"tvg-id="I2315.30354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png/"group-title="Bangla",PUNJA
 https://www.yupptv.com/channels/alpha-etc-punjabi/live
 #EXTINF:-1btvg-name="PTC" tvg-id="I2325.64721.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png/"group-title="Punjabi",PTC
