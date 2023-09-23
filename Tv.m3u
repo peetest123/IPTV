@@ -78,6 +78,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="SNE"tvg-id="I110.18798.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18798/s18798_ll_h15_aa.png/"group-title="",SNE
 #EXTINF:-1tvg-name="SNO"tvg-id="I112.18799.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18799/s18799_ll_h15_aa.png/"group-title="",SNO
 #EXTINF:-1tvg-name="SNW"tvg-id="I113.18800.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18800/s18800_ll_h15_aa.png/"group-title="",SNW
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-410.php
 #EXTINF:-1tvg-name="SNP"tvg-id="I114.18801.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18801/s18801_ll_h15_aa.png/"group-title="",SNP
 #EXTINF:-1tvg-name="SN360"tvg-id="I115.20203.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20203/s20203_ll_h15_aa.png/"group-title="",SN360
 #EXTINF:-1tvg-name="SN1"tvg-id="I116.68858.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68858/s68858_ll_h15_aa.png/"group-title="",SN1
@@ -426,6 +427,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="SNEHD"tvg-id="I610.62109.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62109/s62109_ll_h15_aa.png/"group-title="",SNEHD
 #EXTINF:-1tvg-name="SNOHD"tvg-id="I612.62111.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62111/s62111_ll_h15_ac.png/"group-title="",SNOHD
 #EXTINF:-1tvg-name="SNWHD"tvg-id="I613.61742.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61742/s61742_ll_h15_aa.png/"group-title="",SNWHD
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-410.php
 #EXTINF:-1tvg-name="SNPHD"tvg-id="I614.61714.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61714/s61714_ll_h15_aa.png/"group-title="",SNPHD
 #EXTINF:-1tvg-name="SN360H"tvg-id="I615.49952.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49952/s49952_ll_h15_aa.png/"group-title="",SN360H
 #EXTINF:-1tvg-name="SN1HD"tvg-id="I616.68859.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68859/s68859_ll_h15_ac.png/"group-title="",SN1HD
