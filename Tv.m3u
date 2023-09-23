@@ -706,9 +706,9 @@ https://cdn-tv.co.in/sonyliv/index.php?id=1000009249
 #EXTINF:-1tvg-name="ZEETVHD"tvg-id="I2252.83299.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83299/s83299_ll_h15_ac.png/"group-title="",ZEETVHD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1tvg-name="ZCIN"tvg-id="I2253.21773.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21773/s21773_ll_h15_ab.png/"group-title="",ZCIN
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=247600.m3u8
+plugin://plugin.video.tvone1112/play/2023/play.pvr
 #EXTINF:-1tvg-name="AAJTK"tvg-id="I2256.48512.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48512/s48512_ll_h9_ab.png/"group-title="",AAJTK
-https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=1694583911~acl=/*~data=159.2.150.246-WEB~hmac=5a346d06eaaceb00c55f801cb893faf37d775109cc61b0675e14545c19c36070
+plugin://plugin.video.tvone11/play/2/111/play.pvr
 #EXTINF:-1tvg-name="ATNMAX2"tvg-id="I2257.79544.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png/"group-title="",ATNMAX2
 plugin://plugin.video.tvone1112/play/451/play.pvr
 #EXTINF:-1tvg-name="PUNJA"tvg-id="I2315.30354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png/"group-title="Bangla",PUNJA
@@ -720,7 +720,7 @@ plugin://plugin.video.tvone1112/play/222/play.pvr
 #EXTINF:-1tvg-name="NTV1"tvg-id="I2354.44377.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44377/s44377_ll_h15_ab.png/"group-title="",NTV1
 plugin://plugin.video.tvone1112/play/786/play.pvr
 #EXTINF:-1tvg-name="JAYATV"tvg-id="I2393.28756.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28756/s28756_ll_h15_aa.png/"group-title="",JAYATV
-https://mhdtvpro.com/xtream/index.m3u8?id=305550
+plugin://plugin.video.tvone1112/play/1590/play.pvr
 #EXTINF:-1tvg-name="TAMIL1"tvg-id="I2395.89703.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89703/s89703_ll_h15_aa.png/"group-title="",TAMIL1
 https://yuppftalive.akamaized.net/250723/smil:tamilone.smil/playlist.m3u8
 #EXTINF:-1tvg-name="GKPL"tvg-id="I2670.55629.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55629/s55629_ll_h6_aa.png/"group-title="",GKPL
