@@ -73,6 +73,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png/"group-title="",TSN3
 #EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png/"group-title="",TSN4
 #EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png/"group-title="",TSN5
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-115.php
 #EXTINF:-1tvg-name="MLBNC"tvg-id="I107.90155.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90155/s90155_ll_h15_aa.png/"group-title="",MLBNC
 #EXTINF:-1tvg-name="SNE"tvg-id="I110.18798.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18798/s18798_ll_h15_aa.png/"group-title="",SNE
 #EXTINF:-1tvg-name="SNO"tvg-id="I112.18799.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18799/s18799_ll_h15_aa.png/"group-title="",SNO
@@ -419,6 +420,7 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="TSN3HD"tvg-id="I603.90119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png/"group-title="",TSN3HD
 #EXTINF:-1tvg-name="TSN4HD"tvg-id="I604.90123.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png/"group-title="",TSN4HD
 #EXTINF:-1tvg-name="TSN5HD"tvg-id="I605.90125.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png/"group-title="",TSN5HD
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-115.php
 #EXTINF:-1tvg-name="MLBNCHD"tvg-id="I607.90156.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90156/s90156_ll_h15_aa.png/"group-title="",MLBNCHD
 #EXTINF:-1tvg-name="SP4KB"tvg-id="I609.99158.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/99158/s99158_ll_h9_aa.png/"group-title="",SP4KB
 #EXTINF:-1tvg-name="SNEHD"tvg-id="I610.62109.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62109/s62109_ll_h15_aa.png/"group-title="",SNEHD
