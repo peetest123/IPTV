@@ -14,7 +14,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5
 #EXTINF:-1tvg-name="WBZ"tvg-id="I7.11325.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png/"group-title="",WBZ
 plugin://plugin.video.tvone/play/64/play.pvr
 #EXTINF:-1tvg-name="WMED"tvg-id="I8.11684.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png/"group-title="",WMED
-rtp://239.0.0.2:5001
+plugin://slyguy.pbs.live/?_=play&amp;_play=1&amp;callsign=WCBB&amp;_is_live=1&amp;_noresume=.pvr
 #EXTINF:-1tvg-name="WBTSSD"tvg-id="I9.112743.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png/"group-title="",WBTSSD
 rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="WFXT"tvg-id="I10.11456.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11456/s10212_ll_h15_ab.png/"group-title="",WFXT
