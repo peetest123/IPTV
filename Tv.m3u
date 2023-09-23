@@ -24,8 +24,11 @@ plugin://plugin.video.tvone11/play/5/136/play.pvr
 #EXTINF:-1tvg-name="CJON"tvg-id="I12.14926.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14926/s14926_ll_h15_aa.png/"group-title="",CJON
 plugin://plugin.video.megaiptv/?name=Newfoundland+Television+%28480p%29&amp;url=https%3A%2F%2F2-fss-1.streamhoster.com%2Fpl_122%2F201748-1431018-1%2Fplaylist.m3u8&amp;mode=3&amp;icon=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbd%2FCJON-TV.PNG&amp;fanart=&amp;description=Channels&amp;channeldata=%7B%22tvg_id%22%3A+%22CJONDT.ca%22%2C+%22tvg_name%22%3A+%22Newfoundland+Television+%28480p%29%22%2C+%22tvg_country%22%3A+%22%22%2C+%22tvg_language%22%3A+%22%22%2C+%22tvg_logo%22%3A+%22https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fb%2Fbd%2FCJON-TV.PNG%22%2C+%22group_title%22%3A+%22Canada%22%2C+%22channel_name%22%3A+%22Newfoundland+Television+%28480p%29%22%2C+%22stream_url%22%3A+%22https%3A%2F%2F2-fss-1.streamhoster.com%2Fpl_122%2F201748-1431018-1%2Fplaylist.m3u8%22%7D
 #EXTINF:-1tvg-name="CBNEWS"tvg-id="I13.10094.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10094/s10094_ll_h15_ad.png/"group-title="",CBNEWS
+plugin://plugin.video.tvone112/play/145/2398/play.pvr
 #EXTINF:-1tvg-name="CWEA"tvg-id="I14.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
+plugin://plugin.video.plutotv/play/live/63da370e2e477400081cf8b6
 #EXTINF:-1tvg-name="CWEA"tvg-id="I15.10170.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10170/s10170_ll_h15_aa.png/"group-title="",CWEA
+plugin://plugin.video.plutotv/play/live/63da370e2e477400081cf8b6
 #EXTINF:-1tvg-name="TSC"tvg-id="I16.15997.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png/"group-title="",TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="CICA"tvg-id="I18.10119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png/"group-title="",CICA
