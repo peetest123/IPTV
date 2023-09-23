@@ -69,6 +69,7 @@ https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="TSN1"tvg-id="I100.11182.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11182/s11182_ll_h15_aa.png/"group-title="",TSN1
 plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1tvg-name="TSN2"tvg-id="I102.18990.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18990/s18990_ll_h15_ab.png/"group-title="",TSN2
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-112.php
 #EXTINF:-1tvg-name="TSN3"tvg-id="I103.90118.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90118/s90118_ll_h15_aa.png/"group-title="",TSN3
 #EXTINF:-1tvg-name="TSN4"tvg-id="I104.90122.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90122/s90122_ll_h15_aa.png/"group-title="",TSN4
 #EXTINF:-1tvg-name="TSN5"tvg-id="I105.90124.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90124/s90124_ll_h15_aa.png/"group-title="",TSN5
@@ -414,6 +415,7 @@ plugin://plugin.video.lntv/play/286/play.pvr
 plugin://plugin.video.lntv/play/286/play.pvr
 #EXTINF:-1tvg-name="2TSNK"tvg-id="I601.100573.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100573/s100573_ll_h15_aa.png/"group-title="",2TSNK
 #EXTINF:-1tvg-name="TSN2HD"tvg-id="I602.61474.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61474/s61474_ll_h15_aa.png/"group-title="",TSN2HD
+plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com%2F%2Fstream%2Fstream-112.php
 #EXTINF:-1tvg-name="TSN3HD"tvg-id="I603.90119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png/"group-title="",TSN3HD
 #EXTINF:-1tvg-name="TSN4HD"tvg-id="I604.90123.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png/"group-title="",TSN4HD
 #EXTINF:-1tvg-name="TSN5HD"tvg-id="I605.90125.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png/"group-title="",TSN5HD
