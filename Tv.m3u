@@ -712,7 +712,7 @@ https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1694540711~exp=
 #EXTINF:-1tvg-name="ATNMAX2"tvg-id="I2257.79544.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79544/s79544_ll_h15_aa.png/"group-title="",ATNMAX2
 plugin://plugin.video.tvone1112/play/451/play.pvr
 #EXTINF:-1tvg-name="PUNJA"tvg-id="I2315.30354.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30354/s30354_ll_h9_aa.png/"group-title="Bangla",PUNJA
-https://www.yupptv.com/channels/alpha-etc-punjabi/live
+plugin://plugin.video.tvone1112/play/833/play.pvr
 #EXTINF:-1btvg-name="PTC" tvg-id="I2325.64721.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64721/s64721_ll_h9_aa.png/"group-title="Punjabi",PTC
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1tvg-name="ZBNGL"tvg-id="I2353.100075.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100075/s100075_ll_h9_aa.png/"group-title="",ZBNGL
