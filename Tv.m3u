@@ -140,7 +140,8 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="SHCASEC"tvg-id="I201.15085.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15085/s15085_ll_h15_aa.png/"group-title="",SHCASEC
 #EXTINF:-1tvg-name="ARTSC"tvg-id="I202.10036.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10036/s10036_ll_h15_aa.png/"group-title="",ARTSC
 #EXTINF:-1tvg-name="DRAMAS"tvg-id="I203.15176.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15176/s15176_ll_h15_ab.png/"group-title="",DRAMAS
-#EXTINF:-1tvg-name="TCMC"tvg-id="I204.48815.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48815/s48815_ll_h15_ab.png/"group-title="",TCMC
+#EXTINF:-1tvg-name="TCMC"tvg-id="I204.48815.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48815/s48815_ll_h15_ab.png/"group-title="Movies",TCMC
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1tvg-name="AMCCAN"tvg-id="I205.52247.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/52247/s52247_ll_h15_aa.png/"group-title="",AMCCAN
 #EXTINF:-1tvg-name="CMDY"tvg-id="I208.17595.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17595/s17595_ll_h15_ab.png/"group-title="",CMDY
 #EXTINF:-1tvg-name="SCIFIS"tvg-id="I209.17609.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17609/s17609_ll_h15_ac.png/"group-title="",SCIFIS
