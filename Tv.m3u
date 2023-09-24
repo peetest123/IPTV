@@ -32,6 +32,7 @@ plugin://plugin.video.plutotv/play/live/63da370e2e477400081cf8b6
 #EXTINF:-1tvg-name="TSC"tvg-id="I16.15997.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15997/s15997_ll_h15_ac.png/"group-title="",TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8
 #EXTINF:-1tvg-name="CICA"tvg-id="I18.10119.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10119/s10119_ll_h15_ab.png/"group-title="",CICA
+https://list.iptvcat.com/my_list/s/33ce43f6d80ac72ca06871091253b2c4.m3u8
 #EXTINF:-1tvg-name="CITY"tvg-id="I19.10125.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10125/s10125_ll_h15_ab.png/"group-title="",CITY
 #EXTINF:-1tvg-name="TREEC"tvg-id="I20.17639.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17639/s17639_ll_h15_ab.png/"group-title="kids",TREEC
 plugin://plugin.video.lntv/play/2100/play.pvr
