@@ -47,6 +47,7 @@ plugin://plugin.video.lntv/play/2100/play.pvr
 #EXTINF:-1tvg-name="YTV"tvg-id="I21.12045.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12045/s12045_ll_h9_ab.png/"group-title="kids",YTV
 plugin://plugin.video.lntv/play/1936/play.pvr
 #EXTINF:-1tvg-name="CMT"tvg-id="I22.15072.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15072/s15072_ll_h15_aa.png/"group-title="",CMT
+http://503718662793614404.of230922.xyz:80/play/Javi817J/Javi817JM122/614404.ts
 #EXTINF:-1tvg-name="APTNE"tvg-id="I23.59663.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59663/s59663_ll_h15_aa.png/"group-title="",APTNE
 plugin://plugin.video.macvod/?action=lista3&amp;title=%5BLOWERCASE%5D%5BCAPITALIZE%5D%5BCOLOR+white%5D%5BCOLOR+mintcream%5DAPTN+CA%5B%2FCOLOR%5D%5B%2FCAPITALIZE%5D%5B%2FLOWERCASE%5D%5B%2FCOLOR%5D&amp;url=44276&amp;thumbnail=https%3A%2F%2Farchive.org%2Fdownload%2Fbee-1%2Fmac-iptv.png&amp;plot=47A838324975D51913295883C3EFD5D3&amp;extra=http%3A%2F%2Fportal.ramz123.xyz%3A8080%2F&amp;page=00%3A1a%3A79%3Aaa%3Ad6%3Ae5
 #EXTINF:-1tvg-name="CP24"tvg-id="I24.18168.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png/"group-title="",CP24
@@ -109,9 +110,13 @@ plugin://plugin.video.daddylive/?mode=play&amp;url=https%3A%2F%2Fdaddylivehd.com
 #EXTINF:-1tvg-name="FSR"tvg-id="I125.30189.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30189/s30189_ll_h15_aa.png/"group-title="",FSR
 #EXTINF:-1tvg-name="ESPNCLC"tvg-id="I130.27200.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27200/s27200_ll_h15_aa.png/"group-title="",ESPNCLC
 #EXTINF:-1tvg-name="NBATVC"tvg-id="I132.27201.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27201/s27201_ll_h15_ab.png/"group-title="",NBATVC
+http://503718662793633053.of230922.xyz:80/play/Javi817J/Javi817JM122/633053.ts
 #EXTINF:-1tvg-name="WWE"tvg-id="I138.90143.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90143/s90143_ll_h15_aa.png/"group-title="",WWE
+http://503718662793636266.of230922.xyz:80/play/Javi817J/Javi817JM122/636266.ts
 #EXTINF:-1tvg-name="FIGHTSD"tvg-id="I139.81448.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/81448/s81448_ll_h15_aa.png/"group-title="",FIGHTSD
+http://503718662793636251.of230922.xyz:80/play/Javi817J/Javi817JM122/636251.ts
 #EXTINF:-1tvg-name="WILDTV"tvg-id="I140.45324.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45324/s45324_ll_h15_ac.png/"group-title="",WILDTV
+http://503718662793614497.of230922.xyz:80/play/Javi817J/Javi817JM122/614497.ts
 #EXTINF:-1tvg-name="CBSCCAN"tvg-id="I141.71563.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71563/s59250_ll_h15_ac.png/"group-title="",CBSCCAN
 #EXTINF:-1tvg-name="SPMN"tvg-id="I142.49030.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49030/s49030_ll_h15_ae.png/"group-title="",SPMN
 #EXTINF:-1tvg-name="GMPLSC"tvg-id="I143.87432.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87432/s87432_ll_h15_aa.png/"group-title="",GMPLSC
@@ -225,6 +230,7 @@ plugin://plugin.video.lntv/play/2103/play.pvr
 #EXTINF:-1tvg-name="ADSM"tvg-id="I351.26769.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26769/s26769_ll_h15_ab.png/"group-title="",ADSM
 #EXTINF:-1tvg-name="LIFEC"tvg-id="I352.26768.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26768/s26768_ll_h15_ae.png/"group-title="",LIFEC
 #EXTINF:-1tvg-name="FXC"tvg-id="I354.73681.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73681/s73681_ll_h15_aa.png/"group-title="",FXC
+http://503718662793551429.of230922.xyz:80/play/Javi817J/Javi817JM122/551429.ts
 #EXTINF:-1tvg-name="FXXCSD"tvg-id="I355.90948.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90948/s90948_ll_h9_aa.png/"group-title="",FXXCSD
 #EXTINF:-1tvg-name="AMCCAN"tvg-id="I360.52247.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/52247/s52247_ll_h15_aa.png/"group-title="",AMCCAN
 #EXTINF:-1tvg-name="HBO1"tvg-id="I361.61557.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61557/s61557_ll_h15_ab.png/"group-title="",HBO1
