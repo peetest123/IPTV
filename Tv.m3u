@@ -168,6 +168,7 @@ http://503718662793636251.of230922.xyz:80/play/Javi817J/Javi817JM122/636251.ts
 #EXTINF:-1tvg-name="WILDTV"tvg-id="I140.45324.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45324/s45324_ll_h15_ac.png/"group-title="",WILDTV
 http://503718662793614497.of230922.xyz:80/play/Javi817J/Javi817JM122/614497.ts
 #EXTINF:-1tvg-name="CBSCCAN"tvg-id="I141.71563.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71563/s59250_ll_h15_ac.png/"group-title="",CBSCCAN
+rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="SPMN"tvg-id="I142.49030.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49030/s49030_ll_h15_ae.png/"group-title="",SPMN
 #EXTINF:-1tvg-name="GMPLSC"tvg-id="I143.87432.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/87432/s87432_ll_h15_aa.png/"group-title="",GMPLSC
 #EXTINF:-1tvg-name="NHLC1"tvg-id="I150.89605.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89605/s89605_ll_h15_aa.png/"group-title="",NHLC1
