@@ -154,9 +154,11 @@ http://503718662793636252.of230922.xyz:80/play/Javi817J/Javi817JM122/636252.ts
 #EXTINF:-1tvg-name="OLN"tvg-id="I122.17610.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17610/s17610_ll_h15_ac.png/"group-title="",OLN
 http://503718662793636257.of230922.xyz:80/play/Javi817J/Javi817JM122/636257.ts
 #EXTINF:-1tvg-name="MAVTVHD"tvg-id="I124.61036.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61036/s61036_ll_h15_ab.png/"group-title="",MAVTVHD
-
+http://503718662793597309.of230922.xyz:80/play/Javi817J/Javi817JM122/597309.ts
 #EXTINF:-1tvg-name="FSR"tvg-id="I125.30189.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30189/s30189_ll_h15_aa.png/"group-title="",FSR
+http://503718662793609847.of230922.xyz:80/play/Javi817J/Javi817JM122/609847.ts
 #EXTINF:-1tvg-name="ESPNCLC"tvg-id="I130.27200.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27200/s27200_ll_h15_aa.png/"group-title="",ESPNCLC
+rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="NBATVC"tvg-id="I132.27201.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/27201/s27201_ll_h15_ab.png/"group-title="",NBATVC
 http://503718662793633053.of230922.xyz:80/play/Javi817J/Javi817JM122/633053.ts
 #EXTINF:-1tvg-name="WWE"tvg-id="I138.90143.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90143/s90143_ll_h15_aa.png/"group-title="",WWE
