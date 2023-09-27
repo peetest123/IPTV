@@ -21,7 +21,7 @@ https://live-ctv.video.9c9media.com/f/ctv/cjch/manifest.mpd
 
 #EXTINF:-1tvg-name="WBZ"tvg-id="I7.11325.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11325/s10098_ll_h15_ac.png/"group-title="",WBZ
 rtp://239.0.0.2:5001
-#EXTINF:-1tvg-name="WMED"tvg-id="I8.11684.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png/"group-title="",WMED
+#EXTINF:-1 tvg-name="WMED" tvg-id="I8.11684.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11684/s11039_ll_h15_ab.png/"group-title="",WMED
 http://503718662793631008.of230922.xyz:80/play/Javi817J/Javi817JM122/631008.ts
 #EXTINF:-1tvg-name="WBTSSD"tvg-id="I9.112743.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/112743/s10991_ll_h15_ad.png/"group-title="",WBTSSD
 plugin://plugin.video.lntv/play/158/play.pvr
