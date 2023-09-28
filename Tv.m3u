@@ -309,6 +309,7 @@ plugin://plugin.video.lntv/play/2103/play.pvr
 http://503718662793310066.of230922.xyz:80/play/Javi817J/Javi817JM122/310066.ts
 #EXTINF:-1tvg-name="GSN"tvg-id="I269.14909.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14909/s14909_ll_h15_ad.png/"group-title="",GSN
 #EXTINF:-1tvg-name="FOODC"tvg-id="I270.24525.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24525/s24525_ll_h15_ad.png/"group-title="",FOODC
+http://503718662793633916.of230922.xyz:80/play/Javi817J/Javi817JM122/633916.ts
 #EXTINF:-1tvg-name="HGTVC"tvg-id="I271.17638.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17638/s17638_ll_h15_ab.png/"group-title="",HGTVC
 #EXTINF:-1tvg-name="SLICE"tvg-id="I272.15181.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15181/s15181_ll_h15_ab.png/"group-title="",SLICE
 #EXTINF:-1tvg-name="MAGNS"tvg-id="I273.26829.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26829/s26829_ll_h15_ab.png/"group-title="",MAGNS
@@ -397,6 +398,7 @@ rtp://239.0.0.2:5001
 #EXTINF:-1tvg-name="AMCCHD"tvg-id="I417.64831.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/64831/s64831_ll_h15_ac.png/"group-title="",AMCCHD
 #EXTINF:-1tvg-name="WPCHDT"tvg-id="I418.32795.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32795/s32795_ll_h15_aa.png/"group-title="",WPCHDT
 #EXTINF:-1tvg-name="FOODCHD"tvg-id="I419.73467.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73467/s73467_ll_h15_ad.png/"group-title="",FOODCHD
+http://503718662793633916.of230922.xyz:80/play/Javi817J/Javi817JM122/633916.ts
 #EXTINF:-1tvg-name="DRAMA"tvg-id="I420.73549.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png/"group-title="",DRAMA
 #EXTINF:-1tvg-name="CBNEWSH"tvg-id="I421.75971.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/75971/s75971_ll_h15_ac.png/"group-title="",CBNEWSH
 #EXTINF:-1tvg-name="NWSNTHD"tvg-id="I422.76921.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76921/s76921_ll_h9_ac.png/"group-title="",NWSNTHD
