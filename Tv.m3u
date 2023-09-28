@@ -305,7 +305,8 @@ http://503718662793626314.of230922.xyz:80/play/Javi817J/Javi817JM122/626314.ts
 #EXTINF:-1tvg-name="CORCOSD"tvg-id="I265.120852.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png/"group-title="",CORCOSD
 #EXTINF:-1tvg-name="COTT"tvg-id="I267.26779.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26779/s26779_ll_h15_aa.png/"group-title="",COTT
 plugin://plugin.video.lntv/play/2103/play.pvr
-#EXTINF:-1tvg-name="DEJA"tvg-id="I268.26873.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png/"group-title="",DEJA
+#EXTINF:-1tvg-name="DEJA" tvg-id="I268.26873.zap2it.com" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png/" group-title="Retro",DEJA
+http://503718662793310066.of230922.xyz:80/play/Javi817J/Javi817JM122/310066.ts
 #EXTINF:-1tvg-name="GSN"tvg-id="I269.14909.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14909/s14909_ll_h15_ad.png/"group-title="",GSN
 #EXTINF:-1tvg-name="FOODC"tvg-id="I270.24525.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24525/s24525_ll_h15_ad.png/"group-title="",FOODC
 #EXTINF:-1tvg-name="HGTVC"tvg-id="I271.17638.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/17638/s17638_ll_h15_ab.png/"group-title="",HGTVC
