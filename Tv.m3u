@@ -878,7 +878,7 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1tvg-name="ZBNGL"tvg-id="I2353.100075.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/100075/s100075_ll_h9_aa.png/"group-title="",ZBNGL
 plugin://plugin.video.tvone1112/play/222/play.pvr
 #EXTINF:-1tvg-name="NTV1"tvg-id="I2354.44377.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44377/s44377_ll_h15_ab.png/"group-title="",NTV1
-plugin://plugin.video.tvone1112/play/786/play.pvr
+http://503718662793634126.of230922.xyz:80/play/Javi817J/Javi817JM122/634126.ts
 #EXTINF:-1tvg-name="JAYATV"tvg-id="I2393.28756.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28756/s28756_ll_h15_aa.png/"group-title="",JAYATV
 plugin://plugin.video.tvone1112/play/1590/play.pvr
 #EXTINF:-1tvg-name="TAMIL1"tvg-id="I2395.89703.zap2it.com"tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/89703/s89703_ll_h15_aa.png/"group-title="",TAMIL1
